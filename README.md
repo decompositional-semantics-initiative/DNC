@@ -57,7 +57,7 @@ If you make use of our dataset or the models released here, please cite us using
 }
 ```
 
-When using specific datasets within the DNC, we ask that you also cite the original dataset that we recast. We include a bibtex entry for each of the original dataset that we recast in ...
+When using specific datasets within the DNC, we ask that you also cite the original dataset that we recast. We include a bibtex entry for each of the original dataset that we recast in [additional_references.md](https://github.com/decompositional-semantics-initiative/DNC/additional_references.md)
 
 ## Questions
 
