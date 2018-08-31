@@ -1,0 +1,2134 @@
+[
+    {
+        "binary-label": true, 
+        "context": "The grocery cart hit against the wall .", 
+        "hypothesis": "The hitting happened in a forceful manner .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567178, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the naughty child 's back .", 
+        "hypothesis": "Paula caused the spanking .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567179, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the naughty child 's back .", 
+        "hypothesis": "At the end of the spanking, Paula was in contact with the naughty child 's back .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567180, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the naughty child 's back .", 
+        "hypothesis": "The spanking happened in a forceful manner .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567181, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the naughty child on the back with a paddle .", 
+        "hypothesis": "Paula caused the spanking .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567182, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the naughty child on the back with a paddle .", 
+        "hypothesis": "The naughty child was in contact with a paddle .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567183, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the naughty child on the back with a paddle .", 
+        "hypothesis": "The spanking happened in a forceful manner .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567184, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the naughty child on the back with a paddle .", 
+        "hypothesis": "At the end of the spanking, a paddle was in contact with the naughty child .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567185, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the naughty child on the back .", 
+        "hypothesis": "Paula caused the spanking .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567186, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the naughty child on the back .", 
+        "hypothesis": "At the end of the spanking, Paula was in contact with the naughty child .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567187, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the naughty child on the back .", 
+        "hypothesis": "The spanking happened in a forceful manner .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567188, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "They caused the spanking .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567189, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "He was in contact with a bat .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567190, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "The spanking happened in a forceful manner .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567191, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "At the end of the spanking, a bat was in contact with him .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567192, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "During the spanking, they used a bat .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567193, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "They used something .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567194, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "A bat was used .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567195, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They spanked him to death .", 
+        "hypothesis": "They caused the spanking .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567196, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They spanked him to death .", 
+        "hypothesis": "At the end of the spanking, they was in contact with him .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567197, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They spanked him to death .", 
+        "hypothesis": "The spanking happened in a forceful manner .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567198, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "Paula caused the spanking .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567199, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "The child was in contact with her right hand .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567200, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "The spanking happened in a forceful manner .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567201, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "At the end of the spanking, her right hand was in contact with the child .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567202, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "During the spanking, Paula used her right hand .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567203, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "Paula used something .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567204, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "Her right hand was used .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567205, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the child .", 
+        "hypothesis": "Paula caused the spanking .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567206, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the child .", 
+        "hypothesis": "At the end of the spanking, Paula was in contact with the child .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567207, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Paula spanked the child .", 
+        "hypothesis": "The spanking happened in a forceful manner .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567208, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Jackie accompanied Rose to the store .", 
+        "hypothesis": "Jackie moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567209, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Jackie accompanied Rose to the store .", 
+        "hypothesis": "Rose moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567210, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Jackie accompanied Rose .", 
+        "hypothesis": "Jackie moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567211, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Jackie accompanied Rose .", 
+        "hypothesis": "Rose moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567212, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The stagehand flashed the lights .", 
+        "hypothesis": "The lights were emitted .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567213, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The stagehand flashed the lights .", 
+        "hypothesis": "The stagehand caused the flashing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567214, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "There sparkled a magnificent diamond on his finger .", 
+        "hypothesis": "A magnificent diamond was emitted .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567215, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The crown sparkled with jewels .", 
+        "hypothesis": "Jewels were emitted .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567216, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Jewels sparkled on the crown .", 
+        "hypothesis": "Jewels were emitted .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567217, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The jewel sparkled .", 
+        "hypothesis": "The jewel was emitted .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567218, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "TransCanada is shifting its hq to Calgary from Toronto .", 
+        "hypothesis": "Its hq moving .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567219, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "TransCanada is shifting its hq to Calgary from Toronto .", 
+        "hypothesis": "Toronto being the initial location .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567220, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They stood the statue on the pedestal .", 
+        "hypothesis": "They caused the standing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567221, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Maggie hurried her sister .", 
+        "hypothesis": "Maggie caused the hurrying .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567222, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "We sleep five people in each room .", 
+        "hypothesis": "We cause the sleeping .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567223, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The secretary transcribed the speech into the record .", 
+        "hypothesis": "The secretary caused the transcribing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567224, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The secretary transcribed the speech .", 
+        "hypothesis": "The secretary caused the transcribing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567225, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "I promised somebody my time .", 
+        "hypothesis": "At the beginning of the promising, I had possession of my time .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567226, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "I promised somebody my time .", 
+        "hypothesis": "I caused the promising .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567227, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "I promised my house -lrb- to somebody -rrb- .", 
+        "hypothesis": "At the beginning of the promising, I had possession of my house .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567228, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "I promised my house -lrb- to somebody -rrb- .", 
+        "hypothesis": "I caused the promising .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567229, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "We offered our paycheck to her .", 
+        "hypothesis": "At the beginning of the offering, we had possession of our paycheck .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567230, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "We offered our paycheck to her .", 
+        "hypothesis": "We caused the offering .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567231, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Doug removed the smudges from the tabletop .", 
+        "hypothesis": "Doug caused the removing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567232, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Doug removed the smudges .", 
+        "hypothesis": "Doug caused the removing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567233, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The bank lent to fewer customers .", 
+        "hypothesis": "The bank caused the lending .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567234, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They lent a bicycle to me .", 
+        "hypothesis": "At the beginning of the lending, they had possession of a bicycle .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567235, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They lent a bicycle to me .", 
+        "hypothesis": "A bicycle was transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567236, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They lent a bicycle to me .", 
+        "hypothesis": "They caused the lending .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567237, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "FMC has bought 565,000 shares from Nortek Inc. at $ 23.50 a share .", 
+        "hypothesis": "565,000 shares were transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567238, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "$ 50 wo n't even buy a dress .", 
+        "hypothesis": "A dress are transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567239, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Carmen bought a dress for $ 50 .", 
+        "hypothesis": "A dress were transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567240, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Carmen bought a dress for $ 50 .", 
+        "hypothesis": "Carmen caused the buying .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567241, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Carmen bought Mary a dress .", 
+        "hypothesis": "A dress were transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567242, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Carmen bought Mary a dress .", 
+        "hypothesis": "Carmen caused the buying .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567243, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Carmen bought a dress for Mary .", 
+        "hypothesis": "A dress were transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567244, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Carmen bought a dress for Mary .", 
+        "hypothesis": "Carmen caused the buying .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567245, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Carmen bought a dress from Diana .", 
+        "hypothesis": "A dress were transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567246, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Carmen bought a dress from Diana .", 
+        "hypothesis": "Carmen caused the buying .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567247, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Carmen bought a dress .", 
+        "hypothesis": "A dress were transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567248, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Carmen bought a dress .", 
+        "hypothesis": "Carmen caused the buying .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567249, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Lydia pocketed the change in her left pocket .", 
+        "hypothesis": "The change moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567250, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Lydia pocketed the change in her left pocket .", 
+        "hypothesis": "Lydia caused the pocketing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567251, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Lydia pocketed the change .", 
+        "hypothesis": "The change moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567252, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Lydia pocketed the change .", 
+        "hypothesis": "Lydia caused the pocketing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567253, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the naughty child 's back .", 
+        "hypothesis": "The naughty child 's back caused the spanking .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567254, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the naughty child 's back .", 
+        "hypothesis": "At the end of the spanking, the naughty child 's back was in contact with Paula .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567255, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the naughty child on the back with a paddle .", 
+        "hypothesis": "The naughty child caused the spanking .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567256, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the naughty child on the back with a paddle .", 
+        "hypothesis": "A paddle caused the spanking .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567257, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the naughty child on the back with a paddle .", 
+        "hypothesis": "Paula was in contact with a paddle .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567258, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the naughty child on the back with a paddle .", 
+        "hypothesis": "The naughty child was in contact with Paula .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567259, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the naughty child on the back with a paddle .", 
+        "hypothesis": "A paddle was in contact with the naughty child .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567260, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the naughty child on the back with a paddle .", 
+        "hypothesis": "At the end of the spanking, a paddle was in contact with Paula .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567261, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the naughty child on the back with a paddle .", 
+        "hypothesis": "At the end of the spanking, Paula was in contact with the naughty child .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567262, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the naughty child on the back with a paddle .", 
+        "hypothesis": "At the end of the spanking, the naughty child was in contact with a paddle .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567263, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the naughty child on the back .", 
+        "hypothesis": "The naughty child caused the spanking .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567264, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the naughty child on the back .", 
+        "hypothesis": "At the end of the spanking, the naughty child was in contact with Paula .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567265, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "He caused the spanking .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567266, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "A bat caused the spanking .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567267, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "They was in contact with a bat .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567268, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "He was in contact with them .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567269, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "A bat was in contact with him .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567270, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "At the end of the spanking, a bat was in contact with them .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567271, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "At the end of the spanking, they was in contact with him .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567272, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "At the end of the spanking, he was in contact with a bat .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567273, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "During the spanking, he used a bat .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567274, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "During the spanking, a bat used them .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567275, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "During the spanking, they used him .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567276, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "He used something .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567277, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "A bat used something .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567278, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "They was used .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567279, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death with a bat .", 
+        "hypothesis": "He was used .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567280, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death .", 
+        "hypothesis": "He caused the spanking .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567281, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They spanked him to death .", 
+        "hypothesis": "At the end of the spanking, he was in contact with them .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567282, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "The child caused the spanking .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567283, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "Her right hand caused the spanking .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567284, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "Paula was in contact with her right hand .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567285, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "The child was in contact with Paula .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567286, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "Her right hand was in contact with the child .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567287, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "At the end of the spanking, her right hand was in contact with Paula .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567288, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "At the end of the spanking, Paula was in contact with the child .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567289, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "At the end of the spanking, the child was in contact with her right hand .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567290, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "During the spanking, the child used her right hand .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567291, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "During the spanking, her right hand used Paula .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567292, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "During the spanking, Paula used the child .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567293, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "The child used something .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567294, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "Her right hand used something .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567295, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "Paula was used .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567296, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child with her right hand .", 
+        "hypothesis": "The child was used .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567297, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child .", 
+        "hypothesis": "The child caused the spanking .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567298, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Paula spanked the child .", 
+        "hypothesis": "At the end of the spanking, the child was in contact with Paula .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567299, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Jackie accompanied Rose to the store .", 
+        "hypothesis": "Rose moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567300, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Jackie accompanied Rose to the store .", 
+        "hypothesis": "Jackie moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567301, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Jackie accompanied Rose .", 
+        "hypothesis": "Rose moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567302, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Jackie accompanied Rose .", 
+        "hypothesis": "Jackie moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567303, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "The stagehand flashed the lights .", 
+        "hypothesis": "The stagehand was emitted .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567304, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "The stagehand flashed the lights .", 
+        "hypothesis": "The lights caused the flashing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567305, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "TransCanada is shifting its hq to Calgary from Toronto .", 
+        "hypothesis": "TransCanada moving .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567306, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They stood the statue on the pedestal .", 
+        "hypothesis": "The statue caused the standing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567307, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Maggie hurried her sister .", 
+        "hypothesis": "Her sister caused the hurrying .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567308, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "The secretary transcribed the speech into the record .", 
+        "hypothesis": "The speech caused the transcribing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567309, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "The secretary transcribed the speech .", 
+        "hypothesis": "The speech caused the transcribing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567310, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "I promised somebody my time .", 
+        "hypothesis": "At the beginning of the promising, my time had possession of me .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567311, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "I promised somebody my time .", 
+        "hypothesis": "My time caused the promising .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567312, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "I promised my house -lrb- to somebody -rrb- .", 
+        "hypothesis": "At the beginning of the promising, my house had possession of me .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567313, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "I promised my house -lrb- to somebody -rrb- .", 
+        "hypothesis": "My house caused the promising .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567314, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "We offered our paycheck to her .", 
+        "hypothesis": "At the beginning of the offering, our paycheck had possession of us .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567315, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "We offered our paycheck to her .", 
+        "hypothesis": "Our paycheck caused the offering .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567316, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Doug removed the smudges from the tabletop .", 
+        "hypothesis": "The smudges caused the removing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567317, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Doug removed the smudges .", 
+        "hypothesis": "The smudges caused the removing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567318, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "The bank lent to fewer customers .", 
+        "hypothesis": "Fewer customers caused the lending .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567319, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They lent a bicycle to me .", 
+        "hypothesis": "At the beginning of the lending, I had possession of a bicycle .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567320, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They lent a bicycle to me .", 
+        "hypothesis": "At the beginning of the lending, a bicycle had possession of them .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567321, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They lent a bicycle to me .", 
+        "hypothesis": "They was transferred .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567322, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They lent a bicycle to me .", 
+        "hypothesis": "I caused the lending .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567323, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They lent a bicycle to me .", 
+        "hypothesis": "A bicycle caused the lending .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567324, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "FMC has bought 565,000 shares from Nortek Inc. at $ 23.50 a share .", 
+        "hypothesis": "FMC was transferred .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567325, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Carmen bought a dress for $ 50 .", 
+        "hypothesis": "Carmen were transferred .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567326, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Carmen bought a dress for $ 50 .", 
+        "hypothesis": "A dress caused the buying .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567327, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Carmen bought Mary a dress .", 
+        "hypothesis": "Carmen were transferred .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567328, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Carmen bought Mary a dress .", 
+        "hypothesis": "A dress caused the buying .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567329, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Carmen bought Mary a dress .", 
+        "hypothesis": "Mary caused the buying .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567330, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Carmen bought a dress for Mary .", 
+        "hypothesis": "Carmen were transferred .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567331, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Carmen bought a dress for Mary .", 
+        "hypothesis": "A dress caused the buying .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567332, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Carmen bought a dress for Mary .", 
+        "hypothesis": "Mary caused the buying .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567333, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Carmen bought a dress from Diana .", 
+        "hypothesis": "Carmen were transferred .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567334, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Carmen bought a dress from Diana .", 
+        "hypothesis": "A dress caused the buying .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567335, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Carmen bought a dress .", 
+        "hypothesis": "Carmen were transferred .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567336, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Carmen bought a dress .", 
+        "hypothesis": "A dress caused the buying .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567337, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Lydia pocketed the change in her left pocket .", 
+        "hypothesis": "Lydia moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567338, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Lydia pocketed the change in her left pocket .", 
+        "hypothesis": "The change caused the pocketing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567339, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Lydia pocketed the change .", 
+        "hypothesis": "Lydia moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567340, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Lydia pocketed the change .", 
+        "hypothesis": "The change caused the pocketing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 567341, 
+        "split": "test", 
+        "type-of-inference": "Thematic Roles"
+    }
+]

@@ -1,0 +1,4802 @@
+[
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 140", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509058
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 140", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509059
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 185", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509060
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 185", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509061
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 73", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509062
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 73", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509063
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 692", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509064
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 692", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509065
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 657", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509066
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 657", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509067
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 378", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509068
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 378", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509069
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 331", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509070
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 331", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509071
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 152", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509072
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 152", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509073
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 620", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509074
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 620", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509075
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 922", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509076
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 922", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509077
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 933", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509078
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 933", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509079
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 702", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509080
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 702", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509081
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 704", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509082
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 704", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509083
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 314", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509084
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 314", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509085
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 138", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509086
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 138", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509087
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 119", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509088
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 119", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509089
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 723", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509090
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 723", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509091
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 351", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509092
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 351", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509093
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 803", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509094
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 803", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509095
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 428", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509096
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 428", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509097
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 317", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509098
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 317", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509099
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 247", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509100
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 247", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509101
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 978", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509102
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 978", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509103
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 124", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509104
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 124", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509105
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 133", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509106
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 133", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509107
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 21", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509108
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 21", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509109
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 834", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509110
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 834", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509111
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 947", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509112
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 947", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509113
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 65", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509114
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 65", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509115
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 471", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509116
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 471", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509117
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 179", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509118
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 179", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509119
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 832", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509120
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 832", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509121
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 602", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509122
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 602", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509123
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 355", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509124
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 355", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509125
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 289", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509126
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 289", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509127
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 389", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509128
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 389", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509129
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 406", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509130
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 406", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509131
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 203", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509132
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 203", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509133
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 857", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509134
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 857", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509135
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 645", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509136
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 645", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509137
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 356", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509138
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 356", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509139
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 264", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509140
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 264", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509141
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 66", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509142
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 66", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509143
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 434", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509144
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 434", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509145
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 371", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509146
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 371", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509147
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 341", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509148
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 341", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509149
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 25", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509150
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 25", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509151
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 19", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509152
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 19", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509153
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 894", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509154
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 894", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509155
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 822", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509156
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 822", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509157
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 146", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509158
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 146", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509159
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 959", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509160
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 959", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509161
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 370", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509162
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 370", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509163
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 433", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509164
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 433", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509165
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 410", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509166
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 410", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509167
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 169", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509168
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 169", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509169
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 256", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509170
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 256", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509171
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 423", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509172
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 423", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509173
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 226", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509174
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 226", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509175
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 92", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509176
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 92", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509177
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 749", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509178
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 749", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509179
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 88", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509180
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 88", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509181
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 749", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509182
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 749", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509183
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 355", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509184
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 355", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509185
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 705", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509186
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 705", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509187
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 377", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509188
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 377", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509189
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 882", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509190
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 882", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509191
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 28", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509192
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 28", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509193
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 989", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509194
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 989", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509195
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 330", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509196
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 330", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509197
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 411", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509198
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 411", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509199
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 542", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509200
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 542", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509201
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 528", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509202
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 528", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509203
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 92", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509204
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 92", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509205
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 857", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509206
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 857", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509207
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 642", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509208
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 642", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509209
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 129", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509210
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 129", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509211
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 198", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509212
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 198", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509213
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 196", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509214
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 196", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509215
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 12", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509216
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 12", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509217
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 765", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509218
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 765", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509219
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 234", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509220
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 234", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509221
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 771", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509222
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 771", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509223
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 244", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509224
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 244", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509225
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 534", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509226
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 534", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509227
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 699", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509228
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 699", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509229
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 972", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509230
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 972", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509231
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 397", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509232
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 397", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509233
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 760", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509234
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 760", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509235
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 752", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509236
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 752", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509237
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 961", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509238
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 961", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509239
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 371", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509240
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 371", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509241
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 791", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509242
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 791", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509243
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 631", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509244
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 631", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509245
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 997", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509246
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 997", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509247
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 18", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509248
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 18", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509249
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 177", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509250
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 177", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509251
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 948", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509252
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 948", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509253
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 604", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509254
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 604", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509255
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 239", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509256
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 239", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509257
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 783", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509258
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 783", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509259
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 161", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509260
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 161", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509261
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 847", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509262
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 847", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509263
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 633", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509264
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 633", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509265
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 596", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509266
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 596", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509267
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 11", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509268
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 11", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509269
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 427", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509270
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 427", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509271
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 256", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509272
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 256", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509273
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 655", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509274
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 655", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509275
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 433", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509276
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 433", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509277
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 59", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509278
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 59", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509279
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 904", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509280
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 904", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509281
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 915", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509282
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 915", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509283
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 831", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509284
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 831", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509285
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 803", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509286
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 803", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509287
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 433", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509288
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 433", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509289
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 884", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509290
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 884", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509291
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 862", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509292
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 862", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509293
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 666", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509294
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 666", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509295
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 708", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509296
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 708", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509297
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 90", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509298
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 90", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509299
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 344", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509300
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 344", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509301
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 584", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509302
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 584", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509303
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 2", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509304
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 2", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509305
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 535", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509306
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 535", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509307
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 591", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509308
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 591", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509309
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 426", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509310
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 426", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509311
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 870", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509312
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 870", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509313
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 206", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509314
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 206", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509315
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 654", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509316
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 654", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509317
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 332", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509318
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 332", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509319
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 339", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509320
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 339", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509321
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 225", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509322
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 225", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509323
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 138", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509324
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 138", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509325
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 890", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509326
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 890", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509327
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 80", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509328
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 80", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509329
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 312", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509330
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 312", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509331
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 830", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509332
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 830", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509333
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 835", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509334
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 835", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509335
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 712", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509336
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 712", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509337
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 467", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509338
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 467", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509339
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 441", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509340
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 441", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509341
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 685", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509342
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 685", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509343
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 452", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509344
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 452", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509345
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 330", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509346
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 330", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509347
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 384", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509348
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 384", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509349
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 275", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509350
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 275", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509351
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 302", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509352
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 302", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509353
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 880", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509354
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 880", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509355
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 118", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509356
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 118", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509357
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 532", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509358
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 532", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509359
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 388", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509360
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 388", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509361
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 389", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509362
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 389", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509363
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 744", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509364
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 744", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509365
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 800", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509366
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 800", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509367
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 583", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509368
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 583", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509369
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 711", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509370
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 711", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509371
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 93", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509372
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 93", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509373
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 81", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509374
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 81", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509375
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 664", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509376
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 664", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509377
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 920", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509378
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 920", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509379
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 955", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509380
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 955", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509381
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 70", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509382
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 70", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509383
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 349", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509384
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 349", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509385
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 210", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509386
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 210", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509387
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 209", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509388
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 209", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509389
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 567", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509390
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 567", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509391
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 713", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509392
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 713", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509393
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 641", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509394
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 641", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509395
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 364", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509396
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 364", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509397
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 554", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509398
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 554", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509399
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 909", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509400
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 909", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509401
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 430", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509402
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 430", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509403
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 864", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509404
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 864", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509405
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 390", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509406
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 390", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509407
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 601", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509408
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 601", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509409
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 438", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509410
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 438", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509411
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 214", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509412
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 214", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509413
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 629", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509414
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 629", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509415
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 628", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509416
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 628", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509417
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 655", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509418
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 655", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509419
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 56", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509420
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 56", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509421
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 609", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509422
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 609", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509423
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 794", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509424
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 794", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509425
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 381", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509426
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 381", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509427
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 894", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509428
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 894", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509429
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 978", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509430
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 978", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509431
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 475", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509432
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 475", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509433
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 277", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509434
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 277", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509435
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 15", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509436
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 15", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509437
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 63", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509438
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 63", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509439
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 291", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509440
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 291", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509441
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 679", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509442
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 679", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509443
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 191", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509444
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 191", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509445
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 623", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509446
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 623", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509447
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 455", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509448
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 455", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509449
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 642", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509450
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 642", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509451
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 108", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509452
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 108", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509453
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 48", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509454
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 48", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509455
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 782", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509456
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 782", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509457
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 598", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509458
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 598", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509459
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 503", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509460
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 503", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509461
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 73", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509462
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 73", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509463
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 647", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509464
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 647", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509465
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 780", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509466
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 780", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509467
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 528", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509468
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 528", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509469
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 272", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509470
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 272", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509471
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 799", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509472
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 799", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509473
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 75", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509474
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 75", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509475
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 447", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509476
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 447", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509477
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 526", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509478
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 526", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509479
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 850", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509480
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 850", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509481
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 940", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509482
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 940", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509483
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 223", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509484
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 223", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509485
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 353", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509486
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 353", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509487
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 921", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509488
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 921", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509489
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 265", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509490
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 265", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509491
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 697", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509492
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 697", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509493
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 122", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509494
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 122", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509495
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 477", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509496
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 477", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509497
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 614", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509498
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 614", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509499
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 453", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509500
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 453", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509501
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 499", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509502
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 499", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509503
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 871", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509504
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 871", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509505
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 514", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509506
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 514", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509507
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 387", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509508
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 387", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509509
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 91", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509510
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 91", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509511
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 622", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509512
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 622", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509513
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 190", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509514
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 190", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509515
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 268", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509516
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 268", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509517
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 130", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509518
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 130", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509519
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 517", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509520
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 517", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509521
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 297", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509522
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 297", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509523
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 712", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509524
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 712", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509525
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 170", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509526
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 170", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509527
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 677", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509528
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 677", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509529
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 895", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509530
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 895", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509531
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 384", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509532
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 384", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509533
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 418", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509534
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 418", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509535
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 201", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509536
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 201", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509537
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 541", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509538
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 541", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509539
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 151", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509540
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 151", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509541
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 985", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509542
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 985", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509543
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 395", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509544
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 395", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509545
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 354", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509546
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 354", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509547
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 926", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509548
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 926", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509549
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 793", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509550
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 793", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509551
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 6", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509552
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 6", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509553
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 17", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509554
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 17", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509555
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 136", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509556
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 136", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509557
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 246", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509558
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 246", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509559
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 259", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509560
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 259", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509561
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 798", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509562
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 798", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509563
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 453", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509564
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 453", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509565
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 865", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509566
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 865", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509567
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 767", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509568
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 767", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509569
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 157", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509570
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 157", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509571
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 214", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509572
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 214", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509573
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 608", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509574
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 608", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509575
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 584", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509576
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 584", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509577
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 638", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509578
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 638", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509579
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 674", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509580
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 674", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509581
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 843", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509582
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 843", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509583
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 679", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509584
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 679", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509585
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 716", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509586
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 716", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509587
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 394", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509588
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 394", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509589
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 462", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509590
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 462", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509591
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 809", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509592
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 809", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509593
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 957", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509594
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 957", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509595
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 391", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509596
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 391", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509597
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 530", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509598
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 530", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509599
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 965", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509600
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 965", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509601
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 917", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509602
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 917", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509603
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 733", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509604
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 733", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509605
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 495", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509606
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 495", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509607
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 761", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509608
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 761", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509609
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 385", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509610
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 385", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509611
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 324", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509612
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 324", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509613
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 438", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509614
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 438", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509615
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 255", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509616
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 255", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509617
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 473", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509618
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "imdb_labelled.txt 473", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509619
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 4", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509620
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 4", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509621
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 264", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509622
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 264", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509623
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 329", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509624
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 329", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509625
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 90", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509626
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 90", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509627
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 548", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509628
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 548", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509629
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 421", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509630
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 421", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509631
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 602", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509632
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 602", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509633
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 847", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509634
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 847", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509635
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 917", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509636
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 917", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509637
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 252", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509638
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 252", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509639
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 982", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509640
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 982", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509641
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 556", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509642
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 556", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509643
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 924", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509644
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 924", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509645
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 36", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509646
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 36", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509647
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 184", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509648
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 184", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509649
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 587", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509650
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 587", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509651
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 424", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509652
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 424", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509653
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 720", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509654
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "yelp_labelled.txt 720", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509655
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 57", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509656
+    }, 
+    {
+        "corpus": "Kotzias et. al. 2015", 
+        "corpus-license": null, 
+        "corpus-sent-id": "amazon_cells_labelled.txt 57", 
+        "creation-approach": "automatic", 
+        "misc": null, 
+        "pair-id": 509657
+    }
+]

@@ -1,0 +1,2004 @@
+[
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package to New York from home .", 
+        "hypothesis": "The package moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504686, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package to New York from home .", 
+        "hypothesis": "Home was the initial location .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504687, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package to New York from home .", 
+        "hypothesis": "Amanda moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504688, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package to New York from home .", 
+        "hypothesis": "Amanda caused the driving .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504689, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package from home to New York .", 
+        "hypothesis": "The package moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504690, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package from home to New York .", 
+        "hypothesis": "Home was the initial location .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504691, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package from home to New York .", 
+        "hypothesis": "Amanda moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504692, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package from home to New York .", 
+        "hypothesis": "Amanda caused the driving .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504693, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package from home .", 
+        "hypothesis": "The package moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504694, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package from home .", 
+        "hypothesis": "Home was the initial location .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504695, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package from home .", 
+        "hypothesis": "Amanda moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504696, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package from home .", 
+        "hypothesis": "Amanda caused the driving .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504697, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package to New York .", 
+        "hypothesis": "The package moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504698, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package to New York .", 
+        "hypothesis": "Amanda moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504699, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package to New York .", 
+        "hypothesis": "Amanda caused the driving .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504700, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package .", 
+        "hypothesis": "The package moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504701, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package .", 
+        "hypothesis": "Amanda moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504702, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Amanda drove the package .", 
+        "hypothesis": "Amanda caused the driving .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504703, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed that they had stolen .", 
+        "hypothesis": "Someone received information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504704, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed that they had stolen .", 
+        "hypothesis": "They transferred information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504705, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed that they had stolen .", 
+        "hypothesis": "Information about they had stolen was transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504706, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed that they had stolen .", 
+        "hypothesis": "They caused the confessing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504707, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed to us how it happened .", 
+        "hypothesis": "They transferred information to us about it happened .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504708, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed to us how it happened .", 
+        "hypothesis": "They transferred information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504709, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed to us how it happened .", 
+        "hypothesis": "We received information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504710, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed to us how it happened .", 
+        "hypothesis": "Information about it happened was transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504711, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed to us how it happened .", 
+        "hypothesis": "They caused the confessing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504712, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed to us .", 
+        "hypothesis": "Some information was transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504713, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed to us .", 
+        "hypothesis": "They transferred information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504714, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed to us .", 
+        "hypothesis": "We received information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504715, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed to us .", 
+        "hypothesis": "They caused the confessing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504716, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed their stealing .", 
+        "hypothesis": "Someone received information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504717, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed their stealing .", 
+        "hypothesis": "They transferred information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504718, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed their stealing .", 
+        "hypothesis": "Information about their stealing was transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504719, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed their stealing .", 
+        "hypothesis": "They caused the confessing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504720, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed it to us .", 
+        "hypothesis": "They transferred information to us about it .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504721, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed it to us .", 
+        "hypothesis": "They transferred information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504722, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed it to us .", 
+        "hypothesis": "We received information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504723, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed it to us .", 
+        "hypothesis": "Information about it was transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504724, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed it to us .", 
+        "hypothesis": "They caused the confessing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504725, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed it .", 
+        "hypothesis": "Someone received information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504726, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed it .", 
+        "hypothesis": "They transferred information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504727, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed it .", 
+        "hypothesis": "Information about it was transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504728, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed it .", 
+        "hypothesis": "They caused the confessing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504729, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed stealing the money .", 
+        "hypothesis": "Someone received information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504730, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed stealing the money .", 
+        "hypothesis": "They transferred information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504731, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed stealing the money .", 
+        "hypothesis": "Information about stealing the money was transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504732, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "They confessed stealing the money .", 
+        "hypothesis": "They caused the confessing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504733, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He confessed himself flummoxed .", 
+        "hypothesis": "Someone received information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504734, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He confessed himself flummoxed .", 
+        "hypothesis": "He transferred information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504735, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He confessed himself flummoxed .", 
+        "hypothesis": "Information about himself flummoxed was transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504736, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He confessed himself flummoxed .", 
+        "hypothesis": "He caused the confessing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504737, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "I admitted him to be a great smoker .", 
+        "hypothesis": "Someone received information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504738, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "I admitted him to be a great smoker .", 
+        "hypothesis": "I transferred information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504739, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "I admitted him to be a great smoker .", 
+        "hypothesis": "Information about him was transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504740, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "I admitted him to be a great smoker .", 
+        "hypothesis": "I caused the admitting .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504741, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He confessed how she did it .", 
+        "hypothesis": "Someone received information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504742, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He confessed how she did it .", 
+        "hypothesis": "He transferred information .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504743, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He confessed how she did it .", 
+        "hypothesis": "Information about she did it was transferred .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504744, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He confessed how she did it .", 
+        "hypothesis": "He caused the confessing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504745, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "She brushed with a toothbrush .", 
+        "hypothesis": "During the brushing, she used a toothbrush .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504746, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "She brushed with a toothbrush .", 
+        "hypothesis": "She used something .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504747, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "She brushed with a toothbrush .", 
+        "hypothesis": "A toothbrush was used .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504748, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "She took care of her teeth .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504749, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "Her teeth was cared for .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504750, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "During the flossing, she used floss .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504751, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "She used something .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504752, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "Floss were used .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504753, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The hygienist flossed my teeth .", 
+        "hypothesis": "The hygienist took care of my teeth .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504754, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The hygienist flossed my teeth .", 
+        "hypothesis": "My teeth was cared for .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504755, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The gardener grew that acorn into an oak tree .", 
+        "hypothesis": "An oak tree existed .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504756, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The gardener grew that acorn into an oak tree .", 
+        "hypothesis": "The gardener caused the growing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504757, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The gardener grew an oak tree from that acorn .", 
+        "hypothesis": "An oak tree existed .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504758, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "The gardener grew an oak tree from that acorn .", 
+        "hypothesis": "The gardener caused the growing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504759, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "An oak tree will grow from that acorn .", 
+        "hypothesis": "An oak tree exists .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504760, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "That acorn will grow into an oak tree .", 
+        "hypothesis": "An oak tree exists .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504761, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Leslie staffed the store .", 
+        "hypothesis": "Leslie caused the staffing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504762, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Leigh swaddled the baby in blankets .", 
+        "hypothesis": "Blankets moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504763, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Leigh swaddled the baby in blankets .", 
+        "hypothesis": "Leigh caused the swaddling .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504764, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Leslie staffed the store with employees .", 
+        "hypothesis": "Employees moved .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504765, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "Leslie staffed the store with employees .", 
+        "hypothesis": "Leslie caused the staffing .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504766, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He estimated that it would be likely .", 
+        "hypothesis": "He did an assessment .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504767, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He estimated that it would be likely .", 
+        "hypothesis": "It would be likely was assessed .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504768, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He estimated this outcome to be likely .", 
+        "hypothesis": "He did an assessment .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504769, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He estimated this outcome to be likely .", 
+        "hypothesis": "This outcome was assessed .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504770, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He estimated what would be likely .", 
+        "hypothesis": "He did an assessment .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504771, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He estimated what would be likely .", 
+        "hypothesis": "What would be likely was assessed .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504772, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He estimated how likely it would be .", 
+        "hypothesis": "He did an assessment .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504773, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He estimated the probability at 0.9 .", 
+        "hypothesis": "He did an assessment .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504774, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He estimated the probability at 0.9 .", 
+        "hypothesis": "The probability was assessed .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504775, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He estimated the probability of Don Quixote spontaneously combusting upon contact with the curry poweder .", 
+        "hypothesis": "He did an assessment .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504776, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": true, 
+        "context": "He estimated the probability of Don Quixote spontaneously combusting upon contact with the curry poweder .", 
+        "hypothesis": "The probability of Don Quixote spontaneously combusting upon contact with the curry poweder was assessed .", 
+        "label": "entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504777, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package to New York from home .", 
+        "hypothesis": "Amanda moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504778, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package to New York from home .", 
+        "hypothesis": "The package moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504779, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package to New York from home .", 
+        "hypothesis": "The package caused the driving .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504780, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package from home to New York .", 
+        "hypothesis": "Amanda moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504781, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package from home to New York .", 
+        "hypothesis": "The package moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504782, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package from home to New York .", 
+        "hypothesis": "The package caused the driving .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504783, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package from home .", 
+        "hypothesis": "Amanda moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504784, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package from home .", 
+        "hypothesis": "The package moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504785, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package from home .", 
+        "hypothesis": "The package caused the driving .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504786, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package to New York .", 
+        "hypothesis": "Amanda moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504787, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package to New York .", 
+        "hypothesis": "The package moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504788, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package to New York .", 
+        "hypothesis": "The package caused the driving .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504789, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package .", 
+        "hypothesis": "Amanda moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504790, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package .", 
+        "hypothesis": "The package moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504791, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Amanda drove the package .", 
+        "hypothesis": "The package caused the driving .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504792, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They confessed to us how it happened .", 
+        "hypothesis": "We transferred information to them about it happened .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504793, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They confessed to us how it happened .", 
+        "hypothesis": "We transferred information .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504794, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They confessed to us how it happened .", 
+        "hypothesis": "They received information .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504795, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They confessed to us how it happened .", 
+        "hypothesis": "We caused the confessing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504796, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They confessed to us .", 
+        "hypothesis": "They caused the confessing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504797, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They confessed to us .", 
+        "hypothesis": "We transferred information .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504798, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They confessed to us .", 
+        "hypothesis": "They received information .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504799, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They confessed to us .", 
+        "hypothesis": "We caused the confessing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504800, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They confessed it to us .", 
+        "hypothesis": "We transferred information to them about it .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504801, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They confessed it to us .", 
+        "hypothesis": "We transferred information .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504802, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They confessed it to us .", 
+        "hypothesis": "They received information .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504803, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "They confessed it to us .", 
+        "hypothesis": "We caused the confessing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504804, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She brushed with a toothbrush .", 
+        "hypothesis": "During the brushing, a toothbrush used her .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504805, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She brushed with a toothbrush .", 
+        "hypothesis": "A toothbrush used something .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504806, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She brushed with a toothbrush .", 
+        "hypothesis": "She was used .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504807, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "Her teeth took care of her .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504808, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "Floss took care of her teeth .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504809, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "She took care of floss .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504810, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "Her was cared for .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504811, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "Floss was cared for .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504812, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "During the flossing, her teeth used floss .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504813, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "During the flossing, floss used her .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504814, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "During the flossing, she used her teeth .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504815, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "Her teeth used something .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504816, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "Floss used something .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504817, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "She was used .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504818, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "She flossed her teeth with floss .", 
+        "hypothesis": "Her teeth were used .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504819, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "The hygienist flossed my teeth .", 
+        "hypothesis": "My teeth took care of the hygienist .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504820, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "The hygienist flossed my teeth .", 
+        "hypothesis": "The hygienist was cared for .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504821, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "The gardener grew that acorn into an oak tree .", 
+        "hypothesis": "The gardener existed .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504822, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "The gardener grew that acorn into an oak tree .", 
+        "hypothesis": "An oak tree caused the growing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504823, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "The gardener grew an oak tree from that acorn .", 
+        "hypothesis": "The gardener existed .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504824, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "The gardener grew an oak tree from that acorn .", 
+        "hypothesis": "An oak tree caused the growing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504825, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Leigh swaddled the baby in blankets .", 
+        "hypothesis": "Leigh moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504826, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Leigh swaddled the baby in blankets .", 
+        "hypothesis": "Blankets caused the swaddling .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504827, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Leslie staffed the store with employees .", 
+        "hypothesis": "Leslie moved .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504828, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "Leslie staffed the store with employees .", 
+        "hypothesis": "Employees caused the staffing .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504829, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "He estimated that it would be likely .", 
+        "hypothesis": "It would be likely did an assessment .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504830, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "He estimated that it would be likely .", 
+        "hypothesis": "He was assessed .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504831, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "He estimated this outcome to be likely .", 
+        "hypothesis": "This outcome did an assessment .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504832, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "He estimated this outcome to be likely .", 
+        "hypothesis": "He was assessed .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504833, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "He estimated what would be likely .", 
+        "hypothesis": "What would be likely did an assessment .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504834, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "He estimated what would be likely .", 
+        "hypothesis": "He was assessed .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504835, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "He estimated the probability at 0.9 .", 
+        "hypothesis": "The probability did an assessment .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504836, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "He estimated the probability at 0.9 .", 
+        "hypothesis": "He was assessed .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504837, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "He estimated the probability of Don Quixote spontaneously combusting upon contact with the curry poweder .", 
+        "hypothesis": "The probability of Don Quixote spontaneously combusting upon contact with the curry poweder did an assessment .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504838, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }, 
+    {
+        "binary-label": false, 
+        "context": "He estimated the probability of Don Quixote spontaneously combusting upon contact with the curry poweder .", 
+        "hypothesis": "He was assessed .", 
+        "label": "not-entailed", 
+        "label-set": [
+            "entailed", 
+            "not-entailed"
+        ], 
+        "pair-id": 504839, 
+        "split": "dev", 
+        "type-of-inference": "Thematic Roles"
+    }
+]

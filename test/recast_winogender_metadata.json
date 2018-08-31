@@ -1,0 +1,3714 @@
+[
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "technician.customer.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551638
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "technician.customer.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551639
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "technician.customer.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551640
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "technician.customer.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551641
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "technician.customer.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551642
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "technician.customer.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551643
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "technician.customer.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551644
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "technician.customer.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551645
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "accountant.taxpayer.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551646
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "accountant.taxpayer.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551647
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "accountant.taxpayer.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551648
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "accountant.taxpayer.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551649
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "accountant.taxpayer.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551650
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "accountant.taxpayer.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551651
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "accountant.taxpayer.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551652
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "accountant.taxpayer.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551653
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "supervisor.employee.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551654
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "supervisor.employee.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551655
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "supervisor.employee.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551656
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "supervisor.employee.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551657
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "supervisor.employee.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551658
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "supervisor.employee.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551659
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "supervisor.employee.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551660
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "supervisor.employee.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551661
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "engineer.client.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551662
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "engineer.client.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551663
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "engineer.client.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551664
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "engineer.client.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551665
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "engineer.client.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551666
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "engineer.client.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551667
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "engineer.client.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551668
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "engineer.client.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551669
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "worker.pedestrian.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551670
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "worker.pedestrian.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551671
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "worker.pedestrian.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551672
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "worker.pedestrian.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551673
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "worker.pedestrian.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551674
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "worker.pedestrian.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551675
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "worker.pedestrian.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551676
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "worker.pedestrian.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551677
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "educator.student.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551678
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "educator.student.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551679
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "educator.student.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551680
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "educator.student.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551681
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "educator.student.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551682
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "educator.student.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551683
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "educator.student.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551684
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "educator.student.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551685
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "clerk.customer.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551686
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "clerk.customer.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551687
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "clerk.customer.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551688
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "clerk.customer.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551689
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "clerk.customer.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551690
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "clerk.customer.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551691
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "clerk.customer.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551692
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "clerk.customer.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551693
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "counselor.patient.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551694
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "counselor.patient.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551695
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "counselor.patient.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551696
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "counselor.patient.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551697
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "counselor.patient.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551698
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "counselor.patient.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551699
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "counselor.patient.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551700
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "counselor.patient.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551701
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "inspector.homeowner.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551702
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "inspector.homeowner.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551703
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "inspector.homeowner.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551704
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "inspector.homeowner.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551705
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "mechanic.customer.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551706
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "mechanic.customer.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551707
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "mechanic.customer.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551708
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "mechanic.customer.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551709
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "mechanic.customer.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551710
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "mechanic.customer.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551711
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "mechanic.customer.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551712
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "mechanic.customer.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551713
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "manager.customer.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551714
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "manager.customer.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551715
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "manager.customer.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551716
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "manager.customer.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551717
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "manager.customer.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551718
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "manager.customer.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551719
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "manager.customer.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551720
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "manager.customer.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551721
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "therapist.teenager.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551722
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "therapist.teenager.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551723
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "therapist.teenager.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551724
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "therapist.teenager.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551725
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "therapist.teenager.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551726
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "therapist.teenager.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551727
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "therapist.teenager.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551728
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "therapist.teenager.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551729
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "administrator.undergraduate.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551730
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "administrator.undergraduate.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551731
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "administrator.undergraduate.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551732
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "administrator.undergraduate.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551733
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "administrator.undergraduate.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551734
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "administrator.undergraduate.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551735
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "administrator.undergraduate.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551736
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "administrator.undergraduate.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551737
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "receptionist.visitor.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551738
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "receptionist.visitor.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551739
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "receptionist.visitor.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551740
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "receptionist.visitor.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551741
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "receptionist.visitor.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551742
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "receptionist.visitor.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551743
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "receptionist.visitor.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551744
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "receptionist.visitor.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551745
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "librarian.child.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551746
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "librarian.child.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551747
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "librarian.child.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551748
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "librarian.child.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551749
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "librarian.child.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551750
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "librarian.child.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551751
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "librarian.child.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551752
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "librarian.child.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551753
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "advisor.advisee.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551754
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "advisor.advisee.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551755
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "advisor.advisee.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551756
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "advisor.advisee.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551757
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "advisor.advisee.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551758
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "advisor.advisee.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551759
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "advisor.advisee.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551760
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "advisor.advisee.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551761
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pharmacist.patient.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551762
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pharmacist.patient.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551763
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pharmacist.patient.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551764
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pharmacist.patient.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551765
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pharmacist.patient.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551766
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pharmacist.patient.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551767
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pharmacist.patient.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551768
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pharmacist.patient.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551769
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "janitor.child.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551770
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "janitor.child.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551771
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "janitor.child.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551772
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "janitor.child.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551773
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "psychologist.patient.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551774
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "psychologist.patient.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551775
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "psychologist.patient.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551776
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "psychologist.patient.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551777
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "psychologist.patient.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551778
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "psychologist.patient.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551779
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "psychologist.patient.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551780
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "psychologist.patient.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551781
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "physician.patient.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551782
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "physician.patient.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551783
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "physician.patient.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551784
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "physician.patient.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551785
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "physician.patient.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551786
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "physician.patient.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551787
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "physician.patient.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551788
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "physician.patient.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551789
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "carpenter.onlooker.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551790
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "carpenter.onlooker.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551791
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "carpenter.onlooker.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551792
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "carpenter.onlooker.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551793
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "carpenter.onlooker.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551794
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "carpenter.onlooker.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551795
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "carpenter.onlooker.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551796
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "carpenter.onlooker.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551797
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nurse.patient.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551798
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nurse.patient.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551799
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nurse.patient.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551800
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nurse.patient.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551801
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nurse.patient.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551802
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nurse.patient.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551803
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nurse.patient.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551804
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nurse.patient.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551805
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "investigator.witness.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551806
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "investigator.witness.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551807
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "investigator.witness.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551808
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "investigator.witness.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551809
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "investigator.witness.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551810
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "investigator.witness.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551811
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "investigator.witness.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551812
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "investigator.witness.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551813
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "bartender.customer.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551814
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "bartender.customer.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551815
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "bartender.customer.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551816
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "bartender.customer.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551817
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "bartender.customer.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551818
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "bartender.customer.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551819
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "bartender.customer.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551820
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "bartender.customer.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551821
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "specialist.patient.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551822
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "specialist.patient.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551823
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "specialist.patient.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551824
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "specialist.patient.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551825
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "specialist.patient.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551826
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "specialist.patient.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551827
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "specialist.patient.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551828
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "specialist.patient.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551829
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "electrician.homeowner.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551830
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "electrician.homeowner.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551831
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "electrician.homeowner.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551832
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "electrician.homeowner.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551833
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "electrician.homeowner.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551834
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "electrician.homeowner.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551835
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "electrician.homeowner.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551836
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "electrician.homeowner.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551837
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "officer.protester.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551838
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "officer.protester.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551839
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "officer.protester.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551840
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "officer.protester.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551841
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "officer.protester.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551842
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "officer.protester.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551843
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "officer.protester.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551844
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "officer.protester.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551845
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pathologist.victim.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551846
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pathologist.victim.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551847
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pathologist.victim.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551848
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pathologist.victim.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551849
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pathologist.victim.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551850
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pathologist.victim.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551851
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pathologist.victim.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551852
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "pathologist.victim.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551853
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "teacher.student.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551854
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "teacher.student.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551855
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "teacher.student.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551856
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "teacher.student.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551857
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "teacher.student.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551858
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "teacher.student.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551859
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "teacher.student.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551860
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "teacher.student.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551861
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "lawyer.witness.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551862
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "lawyer.witness.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551863
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "lawyer.witness.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551864
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "lawyer.witness.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551865
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "lawyer.witness.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551866
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "lawyer.witness.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551867
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "lawyer.witness.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551868
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "lawyer.witness.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551869
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "planner.resident.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551870
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "planner.resident.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551871
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "planner.resident.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551872
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "planner.resident.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551873
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "planner.resident.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551874
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "planner.resident.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551875
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "planner.resident.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551876
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "planner.resident.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551877
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "practitioner.patient.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551878
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "practitioner.patient.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551879
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "practitioner.patient.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551880
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "practitioner.patient.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551881
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "practitioner.patient.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551882
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "practitioner.patient.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551883
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "practitioner.patient.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551884
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "practitioner.patient.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551885
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "plumber.homeowner.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551886
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "plumber.homeowner.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551887
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "plumber.homeowner.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551888
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "plumber.homeowner.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551889
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "plumber.homeowner.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551890
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "plumber.homeowner.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551891
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "plumber.homeowner.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551892
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "plumber.homeowner.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551893
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "instructor.student.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551894
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "instructor.student.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551895
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "instructor.student.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551896
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "instructor.student.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551897
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "instructor.student.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551898
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "instructor.student.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551899
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "instructor.student.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551900
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "instructor.student.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551901
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "surgeon.child.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551902
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "surgeon.child.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551903
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "surgeon.child.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551904
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "surgeon.child.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551905
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "surgeon.child.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551906
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "surgeon.child.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551907
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "surgeon.child.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551908
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "surgeon.child.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551909
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "veterinarian.owner.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551910
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "veterinarian.owner.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551911
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "veterinarian.owner.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551912
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "veterinarian.owner.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551913
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "veterinarian.owner.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551914
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "veterinarian.owner.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551915
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "veterinarian.owner.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551916
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "veterinarian.owner.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551917
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paramedic.passenger.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551918
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paramedic.passenger.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551919
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paramedic.passenger.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551920
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paramedic.passenger.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551921
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paramedic.passenger.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551922
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paramedic.passenger.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551923
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paramedic.passenger.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551924
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paramedic.passenger.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551925
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "examiner.victim.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551926
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "examiner.victim.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551927
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "examiner.victim.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551928
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "examiner.victim.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551929
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "examiner.victim.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551930
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "examiner.victim.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551931
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "examiner.victim.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551932
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "examiner.victim.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551933
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chemist.visitor.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551934
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chemist.visitor.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551935
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chemist.visitor.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551936
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chemist.visitor.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551937
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chemist.visitor.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551938
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chemist.visitor.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551939
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chemist.visitor.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551940
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chemist.visitor.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551941
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "machinist.child.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551942
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "machinist.child.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551943
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "machinist.child.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551944
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "machinist.child.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551945
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "machinist.child.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551946
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "machinist.child.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551947
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "machinist.child.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551948
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "machinist.child.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551949
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "appraiser.buyer.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551950
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "appraiser.buyer.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551951
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "appraiser.buyer.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551952
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "appraiser.buyer.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551953
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "appraiser.buyer.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551954
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "appraiser.buyer.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551955
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "appraiser.buyer.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551956
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "appraiser.buyer.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551957
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nutritionist.patient.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551958
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nutritionist.patient.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551959
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nutritionist.patient.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551960
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nutritionist.patient.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551961
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nutritionist.patient.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551962
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nutritionist.patient.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551963
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nutritionist.patient.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551964
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "nutritionist.patient.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551965
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "architect.student.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551966
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "architect.student.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551967
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "architect.student.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551968
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "architect.student.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551969
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "architect.student.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551970
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "architect.student.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551971
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "architect.student.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551972
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "architect.student.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551973
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hairdresser.client.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551974
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hairdresser.client.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551975
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hairdresser.client.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551976
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hairdresser.client.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551977
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hairdresser.client.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551978
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hairdresser.client.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551979
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hairdresser.client.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551980
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hairdresser.client.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551981
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "baker.customer.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551982
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "baker.customer.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551983
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "baker.customer.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551984
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "baker.customer.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551985
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "baker.customer.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551986
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "baker.customer.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551987
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "baker.customer.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551988
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "baker.customer.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551989
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "programmer.student.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551990
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "programmer.student.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551991
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "programmer.student.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551992
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "programmer.student.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551993
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "programmer.student.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551994
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "programmer.student.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551995
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "programmer.student.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551996
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "programmer.student.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551997
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paralegal.client.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551998
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paralegal.client.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 551999
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paralegal.client.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552000
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paralegal.client.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552001
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paralegal.client.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552002
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paralegal.client.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552003
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paralegal.client.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552004
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "paralegal.client.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552005
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hygienist.patient.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552006
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hygienist.patient.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552007
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hygienist.patient.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552008
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hygienist.patient.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552009
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hygienist.patient.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552010
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hygienist.patient.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552011
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hygienist.patient.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552012
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "hygienist.patient.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552013
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "scientist.undergraduate.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552014
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "scientist.undergraduate.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552015
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "scientist.undergraduate.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552016
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "scientist.undergraduate.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552017
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "scientist.undergraduate.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552018
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "scientist.undergraduate.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552019
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "scientist.undergraduate.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552020
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "scientist.undergraduate.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552021
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dispatcher.bystander.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552022
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dispatcher.bystander.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552023
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dispatcher.bystander.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552024
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dispatcher.bystander.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552025
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dispatcher.bystander.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552026
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dispatcher.bystander.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552027
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dispatcher.bystander.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552028
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dispatcher.bystander.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552029
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "cashier.customer.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552030
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "cashier.customer.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552031
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "cashier.customer.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552032
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "cashier.customer.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552033
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "cashier.customer.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552034
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "cashier.customer.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552035
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "cashier.customer.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552036
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "cashier.customer.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552037
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "auditor.taxpayer.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552038
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "auditor.taxpayer.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552039
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "auditor.taxpayer.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552040
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "auditor.taxpayer.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552041
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "auditor.taxpayer.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552042
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "auditor.taxpayer.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552043
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "auditor.taxpayer.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552044
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "auditor.taxpayer.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552045
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dietitian.client.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552046
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dietitian.client.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552047
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dietitian.client.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552048
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dietitian.client.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552049
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dietitian.client.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552050
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dietitian.client.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552051
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dietitian.client.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552052
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "dietitian.client.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552053
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "painter.customer.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552054
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "painter.customer.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552055
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "painter.customer.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552056
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "painter.customer.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552057
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "painter.customer.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552058
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "painter.customer.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552059
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "painter.customer.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552060
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "painter.customer.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552061
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "broker.client.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552062
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "broker.client.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552063
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "broker.client.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552064
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "broker.client.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552065
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "broker.client.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552066
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "broker.client.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552067
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "broker.client.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552068
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "broker.client.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552069
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chef.guest.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552070
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chef.guest.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552071
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chef.guest.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552072
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chef.guest.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552073
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chef.guest.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552074
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chef.guest.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552075
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chef.guest.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552076
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "chef.guest.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552077
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "doctor.patient.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552078
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "doctor.patient.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552079
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "doctor.patient.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552080
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "doctor.patient.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552081
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "doctor.patient.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552082
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "doctor.patient.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552083
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "doctor.patient.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552084
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "doctor.patient.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552085
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "firefighter.child.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552086
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "firefighter.child.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552087
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "firefighter.child.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552088
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "firefighter.child.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552089
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "firefighter.child.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552090
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "firefighter.child.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552091
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "firefighter.child.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552092
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "firefighter.child.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552093
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "secretary.visitor.0.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552094
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "secretary.visitor.0.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552095
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "secretary.visitor.0.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552096
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "secretary.visitor.0.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552097
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "secretary.visitor.1.0.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552098
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "secretary.visitor.1.1.male", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552099
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "secretary.visitor.1.0.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552100
+    }, 
+    {
+        "corpus": "winogender-schemas", 
+        "corpus-license": "MIT", 
+        "corpus-sent-id": "secretary.visitor.1.1.female", 
+        "corpus-split": "test", 
+        "creation-approach": "manual", 
+        "pair-id": 552101
+    }
+]

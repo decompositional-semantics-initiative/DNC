@@ -1,0 +1,1970 @@
+[
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "bump-18.4_NP V PP.location", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.1", 
+            "secondary": "PP; against-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567178
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP; Body Part Object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567179
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP; Body Part Object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567180
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP; Body Part Object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567181
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Body-part-PP Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567182
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Body-part-PP Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567183
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Body-part-PP Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567184
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Body-part-PP Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567185
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.location", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP; Body-part-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567186
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.location", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP; Body-part-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567187
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.location", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP; Body-part-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567188
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567189
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567190
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567191
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567192
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567193
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567194
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567195
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP; Result-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567196
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP; Result-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567197
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP; Result-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567198
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567199
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567200
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567201
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567202
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567203
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567204
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567205
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567206
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567207
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567208
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "accompany-51.7_NP V NP PP.destination", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; path-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567209
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "accompany-51.7_NP V NP PP.destination", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; path-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567210
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "accompany-51.7_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567211
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "accompany-51.7_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567212
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "light_emission-43.1_NP V NP.theme", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "1.1.2", 
+            "secondary": "NP; Causative variant", 
+            "xtag": ""
+        }, 
+        "pair-id": 567213
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "light_emission-43.1_NP V NP.theme", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "1.1.2", 
+            "secondary": "NP; Causative variant", 
+            "xtag": ""
+        }, 
+        "pair-id": 567214
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "light_emission-43.1_There V NP PP.location", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "6.2", 
+            "secondary": "Locative Inversion", 
+            "xtag": ""
+        }, 
+        "pair-id": 567215
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "light_emission-43.1_NP.location V PP.theme", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.3", 
+            "secondary": "PP; Location Subject, with-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567216
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "light_emission-43.1_NP V PP.location", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.1", 
+            "secondary": "PP; Location-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567217
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "light_emission-43.1_NP V", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.1", 
+            "secondary": "Intransitive", 
+            "xtag": ""
+        }, 
+        "pair-id": 567218
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "send-11.1_NP V NP PP.destination PP.initial_location", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Goal-PP Initial_Location-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567219
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "send-11.1_NP V NP PP.destination PP.initial_location", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Goal-PP Initial_Location-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567220
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spatial_configuration-47.6_NP V NP.theme PP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP; Causative variant", 
+            "xtag": ""
+        }, 
+        "pair-id": 567221
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "rush-53.2_NP V NP.theme", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP; Causative variant", 
+            "xtag": ""
+        }, 
+        "pair-id": 567222
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "fit-54.3_NP V NP PP.location", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Location-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567223
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "transcribe-25.4_NP V NP PP.destination", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; locative-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567224
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "transcribe-25.4_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567225
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "future_having-13.3_NP V NP-Dative NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.1", 
+            "secondary": "Dative", 
+            "xtag": ""
+        }, 
+        "pair-id": 567226
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "future_having-13.3_NP V NP-Dative NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.1", 
+            "secondary": "Dative", 
+            "xtag": ""
+        }, 
+        "pair-id": 567227
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "future_having-13.3_NP V NP.theme (PP)", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Transitive; Theme Object", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567228
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "future_having-13.3_NP V NP.theme (PP)", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Transitive; Theme Object", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567229
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "future_having-13.3_NP V NP PP.goal", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Goal-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567230
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "future_having-13.3_NP V NP PP.goal", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Goal-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567231
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "remove-10.1_NP V NP PP.source", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Source-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567232
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "remove-10.1_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567233
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "give-13.1_NP V PP.recipient", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "PP; Recipient-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567234
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "give-13.1_NP V NP PP.recipient", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Recipient-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567235
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "give-13.1_NP V NP PP.recipient", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Recipient-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567236
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "give-13.1_NP V NP PP.recipient", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Recipient-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567237
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.source NP.asset", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Source-PP, Asset-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567238
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP.asset V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "3.9", 
+            "secondary": "NP; Asset Subject", 
+            "xtag": ""
+        }, 
+        "pair-id": 567239
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.asset", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "3.9", 
+            "secondary": "NP-PP; Asset Subject", 
+            "xtag": ""
+        }, 
+        "pair-id": 567240
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.asset", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "3.9", 
+            "secondary": "NP-PP; Asset Subject", 
+            "xtag": ""
+        }, 
+        "pair-id": 567241
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP.beneficiary NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.2", 
+            "secondary": "Benefactive Alternation; double object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567242
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP.beneficiary NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.2", 
+            "secondary": "Benefactive Alternation; double object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567243
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.beneficiary", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.2", 
+            "secondary": "NP-PP; Beneficiary Object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567244
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.beneficiary", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.2", 
+            "secondary": "NP-PP; Beneficiary Object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567245
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.source", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; from-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567246
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.source", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; from-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567247
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567248
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567249
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "pocket-9.10_NP V NP PP.destination", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Destination-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567250
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "pocket-9.10_NP V NP PP.destination", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Destination-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567251
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "pocket-9.10_NP V NP.theme", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive; Theme Object", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567252
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "pocket-9.10_NP V NP.theme", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive; Theme Object", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567253
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP; Body Part Object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567254
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP; Body Part Object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567255
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Body-part-PP Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567256
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Body-part-PP Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567257
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Body-part-PP Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567258
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Body-part-PP Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567259
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Body-part-PP Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567260
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Body-part-PP Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567261
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Body-part-PP Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567262
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Body-part-PP Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567263
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.location", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP; Body-part-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567264
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.location", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP; Body-part-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567265
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567266
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567267
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567268
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567269
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567270
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567271
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567272
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567273
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567274
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567275
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567276
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567277
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567278
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567279
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP-PP; Result-PP, Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567280
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP; Result-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567281
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.result", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.4", 
+            "secondary": "NP-PP; Result-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567282
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567283
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567284
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567285
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567286
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567287
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567288
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567289
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567290
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567291
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567292
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567293
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567294
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567295
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567296
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP PP.instrument", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Instrument-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567297
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567298
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spank-18.3_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567299
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "accompany-51.7_NP V NP PP.destination", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; path-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567300
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "accompany-51.7_NP V NP PP.destination", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; path-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567301
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "accompany-51.7_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567302
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "accompany-51.7_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567303
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "light_emission-43.1_NP V NP.theme", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "1.1.2", 
+            "secondary": "NP; Causative variant", 
+            "xtag": ""
+        }, 
+        "pair-id": 567304
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "light_emission-43.1_NP V NP.theme", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "1.1.2", 
+            "secondary": "NP; Causative variant", 
+            "xtag": ""
+        }, 
+        "pair-id": 567305
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "send-11.1_NP V NP PP.destination PP.initial_location", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Goal-PP Initial_Location-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567306
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "spatial_configuration-47.6_NP V NP.theme PP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP; Causative variant", 
+            "xtag": ""
+        }, 
+        "pair-id": 567307
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "rush-53.2_NP V NP.theme", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP; Causative variant", 
+            "xtag": ""
+        }, 
+        "pair-id": 567308
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "transcribe-25.4_NP V NP PP.destination", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; locative-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567309
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "transcribe-25.4_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567310
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "future_having-13.3_NP V NP-Dative NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.1", 
+            "secondary": "Dative", 
+            "xtag": ""
+        }, 
+        "pair-id": 567311
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "future_having-13.3_NP V NP-Dative NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.1", 
+            "secondary": "Dative", 
+            "xtag": ""
+        }, 
+        "pair-id": 567312
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "future_having-13.3_NP V NP.theme (PP)", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Transitive; Theme Object", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567313
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "future_having-13.3_NP V NP.theme (PP)", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Transitive; Theme Object", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567314
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "future_having-13.3_NP V NP PP.goal", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Goal-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567315
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "future_having-13.3_NP V NP PP.goal", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Goal-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567316
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "remove-10.1_NP V NP PP.source", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Source-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567317
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "remove-10.1_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567318
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "give-13.1_NP V PP.recipient", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "PP; Recipient-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567319
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "give-13.1_NP V NP PP.recipient", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Recipient-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567320
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "give-13.1_NP V NP PP.recipient", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Recipient-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567321
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "give-13.1_NP V NP PP.recipient", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Recipient-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567322
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "give-13.1_NP V NP PP.recipient", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Recipient-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567323
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "give-13.1_NP V NP PP.recipient", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Recipient-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567324
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.source NP.asset", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "", 
+            "secondary": "NP-PP-PP; Source-PP, Asset-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567325
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.asset", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "3.9", 
+            "secondary": "NP-PP; Asset Subject", 
+            "xtag": ""
+        }, 
+        "pair-id": 567326
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.asset", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "3.9", 
+            "secondary": "NP-PP; Asset Subject", 
+            "xtag": ""
+        }, 
+        "pair-id": 567327
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP.beneficiary NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.2", 
+            "secondary": "Benefactive Alternation; double object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567328
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP.beneficiary NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.2", 
+            "secondary": "Benefactive Alternation; double object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567329
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP.beneficiary NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.2", 
+            "secondary": "Benefactive Alternation; double object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567330
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.beneficiary", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.2", 
+            "secondary": "NP-PP; Beneficiary Object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567331
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.beneficiary", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.2", 
+            "secondary": "NP-PP; Beneficiary Object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567332
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.beneficiary", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "2.2", 
+            "secondary": "NP-PP; Beneficiary Object", 
+            "xtag": ""
+        }, 
+        "pair-id": 567333
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.source", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; from-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567334
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP PP.source", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; from-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567335
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567336
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "get-13.5.1_NP V NP", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567337
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "pocket-9.10_NP V NP PP.destination", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Destination-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567338
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "pocket-9.10_NP V NP PP.destination", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "NP-PP; Destination-PP", 
+            "xtag": ""
+        }, 
+        "pair-id": 567339
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "pocket-9.10_NP V NP.theme", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive; Theme Object", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567340
+    }, 
+    {
+        "corpus": "VerbNet", 
+        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
+        "corpus-sent-id": "pocket-9.10_NP V NP.theme", 
+        "creation-approach": "automatic", 
+        "misc": {
+            "descriptionNumber": "0.2", 
+            "secondary": "Basic Transitive; Theme Object", 
+            "xtag": "0.2"
+        }, 
+        "pair-id": 567341
+    }
+]
