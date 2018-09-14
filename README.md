@@ -44,6 +44,10 @@ their recast datasets into the DNC. Please add your recast data as a pull reques
 
 If you find any issues in the DNC, please create an issue on this repo. If you fix the issue, please submit a pull request as well. We will make sure to note your contribution to the DNC.
 
+## Previous Recast datasets
+[White et. al. (2017)](http://www.aclweb.org/anthology/I17-1100) previously recast 3 datasets into NLI when they proposed to unify semantic classification tasks under the heading of NLI. We include their recast datasets here at [https://github.com/decompositional-semantics-initiative/DNC/blob/master/inference_is_everything.zip](https://github.com/decompositional-semantics-initiative/DNC/blob/master/inference_is_everything.zip).
+
+
 ## Bibligoraphy
 
 If you make use of our dataset or the models released here, please cite us using the following citation:
