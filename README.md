@@ -41,6 +41,7 @@ Each datafile has the following keys and values:
 We encourage dataset creators to recast
 their datasets into NLI and invite them to add
 their recast datasets into the DNC. Please add your recast data as a pull request.
+We hope that this can lead to collaborations! 
 
 If you find any issues in the DNC, please create an issue on this repo. If you fix the issue, please submit a pull request as well. We will make sure to note your contribution to the DNC.
 
