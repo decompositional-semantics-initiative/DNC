@@ -10881,18 +10881,6 @@
             "secondary": "Transitive; Recipient Object, ellided Topic", 
             "xtag": "0.2"
         }, 
-        "pair-id": 407230
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "instr_communication-37.4_NP V NP.recipient", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Transitive; Recipient Object, ellided Topic", 
-            "xtag": "0.2"
-        }, 
         "pair-id": 407231
     }, 
     {
@@ -11582,54 +11570,6 @@
     {
         "corpus": "VerbNet", 
         "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP how S", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "NP-HOW-S", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407289
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP how S", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "NP-HOW-S", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407290
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP how S", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "NP-HOW-S", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407291
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP how S", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "NP-HOW-S", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407292
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
         "corpus-sent-id": "inquire-37.1.2_NP V PP.recipient PP.topic whether S_INF", 
         "creation-approach": "automatic", 
         "misc": {
@@ -11774,54 +11714,6 @@
     {
         "corpus": "VerbNet", 
         "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP PP.topic what S", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "P-WHAT-S; about-PP", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407305
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP PP.topic what S", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "P-WHAT-S; about-PP", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407306
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP PP.topic what S", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "P-WHAT-S; about-PP", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407307
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP PP.topic what S", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "P-WHAT-S; about-PP", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407308
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
         "corpus-sent-id": "inquire-37.1.2_NP V PP.recipient PP.topic what S", 
         "creation-approach": "automatic", 
         "misc": {
@@ -11914,54 +11806,6 @@
             "xtag": "0.2"
         }, 
         "pair-id": 407316
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP what S_INF", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "NP-WHAT-TO-INF", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407317
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP what S_INF", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "NP-WHAT-TO-INF", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407318
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP what S_INF", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "NP-WHAT-TO-INF", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407319
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP what S_INF", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "NP-WHAT-TO-INF", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407320
     }, 
     {
         "corpus": "VerbNet", 
@@ -12202,18 +12046,6 @@
             "xtag": "0.2"
         }, 
         "pair-id": 407340
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "inquire-37.1.2_NP V NP.recipient", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Basic Transitive; Recipient Object", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407341
     }, 
     {
         "corpus": "VerbNet", 
@@ -12466,18 +12298,6 @@
             "xtag": ""
         }, 
         "pair-id": 407362
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "complain-37.8_NP V PP.recipient", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.1", 
-            "secondary": "PP; Recipient-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407363
     }, 
     {
         "corpus": "VerbNet", 
@@ -13293,18 +13113,6 @@
             "secondary": "NP", 
             "xtag": "0.2"
         }, 
-        "pair-id": 407431
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "tell-37.2_NP V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP", 
-            "xtag": "0.2"
-        }, 
         "pair-id": 407432
     }, 
     {
@@ -13334,102 +13142,6 @@
     {
         "corpus": "VerbNet", 
         "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "chase-51.6_NP V PP.theme", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.1", 
-            "secondary": "PP; after-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407435
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "chase-51.6_NP V PP.theme", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.1", 
-            "secondary": "PP; after-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407436
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "chase-51.6_NP V NP PP.location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; path-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407437
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "chase-51.6_NP V NP PP.location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; path-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407438
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "chase-51.6_NP V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Basic Transitive", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407439
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "chase-51.6_NP V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Basic Transitive", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407440
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "carry-11.4_NP V NP PP.destination PP.initial_location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP-PP; Goal-PP Initial_Location-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407441
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "carry-11.4_NP V NP PP.destination PP.initial_location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP-PP; Goal-PP Initial_Location-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407442
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
         "corpus-sent-id": "carry-11.4_NP V NP PP.destination PP.initial_location", 
         "creation-approach": "automatic", 
         "misc": {
@@ -13438,30 +13150,6 @@
             "xtag": ""
         }, 
         "pair-id": 407443
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "carry-11.4_NP V NP PP.initial_location PP.destination", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP-PP; Initial_Location-PP Goal-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407444
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "carry-11.4_NP V NP PP.initial_location PP.destination", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP-PP; Initial_Location-PP Goal-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407445
     }, 
     {
         "corpus": "VerbNet", 
@@ -13485,30 +13173,6 @@
             "secondary": "NP-PP; Initial_Location-PP", 
             "xtag": ""
         }, 
-        "pair-id": 407447
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "carry-11.4_NP V NP PP.initial_location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; Initial_Location-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407448
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "carry-11.4_NP V NP PP.initial_location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; Initial_Location-PP", 
-            "xtag": ""
-        }, 
         "pair-id": 407449
     }, 
     {
@@ -13521,55 +13185,7 @@
             "secondary": "NP-PP; Goal-PP", 
             "xtag": ""
         }, 
-        "pair-id": 407450
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "carry-11.4_NP V NP PP.destination", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; Goal-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407451
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "carry-11.4_NP V NP PP.destination", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; Goal-PP", 
-            "xtag": ""
-        }, 
         "pair-id": 407452
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "carry-11.4_NP V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Basic Transitive; with accompanied motion", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407453
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "carry-11.4_NP V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Basic Transitive; with accompanied motion", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407454
     }, 
     {
         "corpus": "VerbNet", 
@@ -14265,18 +13881,6 @@
             "secondary": "NP-PP; as-PP", 
             "xtag": "0.2"
         }, 
-        "pair-id": 407512
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "interrogate-37.1.3_NP V NP PP.attribute", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "NP-PP; as-PP", 
-            "xtag": "0.2"
-        }, 
         "pair-id": 407513
     }, 
     {
@@ -14302,18 +13906,6 @@
             "xtag": "0.2"
         }, 
         "pair-id": 407515
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "interrogate-37.1.3_NP V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407516
     }, 
     {
         "corpus": "VerbNet", 
@@ -15609,43 +15201,7 @@
             "secondary": "Transitive; accompanied motion", 
             "xtag": "0.2"
         }, 
-        "pair-id": 407624
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "nonvehicle-51.4.2_NP V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Transitive; accompanied motion", 
-            "xtag": "0.2"
-        }, 
         "pair-id": 407625
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "nonvehicle-51.4.2_NP V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Transitive; accompanied motion", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407626
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "nonvehicle-51.4.2_NP V NP PP.location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; accompanied motion, path-PP", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407627
     }, 
     {
         "corpus": "VerbNet", 
@@ -15658,18 +15214,6 @@
             "xtag": "0.2"
         }, 
         "pair-id": 407628
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "nonvehicle-51.4.2_NP V NP PP.location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; accompanied motion, path-PP", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 407629
     }, 
     {
         "corpus": "VerbNet", 
@@ -15885,18 +15429,6 @@
             "secondary": "Basic Transitive; Recipient Object", 
             "xtag": "0.2"
         }, 
-        "pair-id": 407647
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "advise-37.9_NP V NP.recipient", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Basic Transitive; Recipient Object", 
-            "xtag": "0.2"
-        }, 
         "pair-id": 407648
     }, 
     {
@@ -16005,31 +15537,7 @@
             "secondary": "NP-PP; Induced Action with accompanied motion, path-PP", 
             "xtag": ""
         }, 
-        "pair-id": 407657
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "waltz-51.5_NP V NP PP.location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "1.1.2.2", 
-            "secondary": "NP-PP; Induced Action with accompanied motion, path-PP", 
-            "xtag": ""
-        }, 
         "pair-id": 407658
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "waltz-51.5_NP V NP PP.location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "1.1.2.2", 
-            "secondary": "NP-PP; Induced Action with accompanied motion, path-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407659
     }, 
     {
         "corpus": "VerbNet", 
@@ -16294,18 +15802,6 @@
             "xtag": ""
         }, 
         "pair-id": 407681
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "poke-19_NP.instrument V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "3.3", 
-            "secondary": "Instrument Subject Alternation", 
-            "xtag": ""
-        }, 
-        "pair-id": 407682
     }, 
     {
         "corpus": "VerbNet", 
@@ -17158,18 +16654,6 @@
             "xtag": ""
         }, 
         "pair-id": 407753
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "animal_sounds-38_NP V PP.recipient", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.1", 
-            "secondary": "PP; Recipient-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 407754
     }, 
     {
         "corpus": "VerbNet", 

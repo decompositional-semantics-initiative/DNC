@@ -1466,54 +1466,6 @@
     {
         "corpus": "VerbNet", 
         "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "accompany-51.7_NP V NP PP.destination", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; path-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 567300
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "accompany-51.7_NP V NP PP.destination", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; path-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 567301
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "accompany-51.7_NP V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Basic Transitive", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 567302
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "accompany-51.7_NP V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Basic Transitive", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 567303
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
         "corpus-sent-id": "light_emission-43.1_NP V NP.theme", 
         "creation-approach": "automatic", 
         "misc": {

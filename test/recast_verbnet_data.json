@@ -1587,58 +1587,6 @@
     }, 
     {
         "binary-label": false, 
-        "context": "Jackie accompanied Rose to the store .", 
-        "hypothesis": "Rose moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 567300, 
-        "split": "test", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Jackie accompanied Rose to the store .", 
-        "hypothesis": "Jackie moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 567301, 
-        "split": "test", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Jackie accompanied Rose .", 
-        "hypothesis": "Rose moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 567302, 
-        "split": "test", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Jackie accompanied Rose .", 
-        "hypothesis": "Jackie moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 567303, 
-        "split": "test", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
         "context": "The stagehand flashed the lights .", 
         "hypothesis": "The stagehand was emitted .", 
         "label": "not-entailed", 

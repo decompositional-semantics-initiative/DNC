@@ -1113,55 +1113,7 @@
             "secondary": "NP-PP-PP; Goal-PP Initial_Location-PP", 
             "xtag": ""
         }, 
-        "pair-id": 504778
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "drive-11.5_NP V NP PP.destination PP.initial_location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP-PP; Goal-PP Initial_Location-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 504779
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "drive-11.5_NP V NP PP.destination PP.initial_location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP-PP; Goal-PP Initial_Location-PP", 
-            "xtag": ""
-        }, 
         "pair-id": 504780
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "drive-11.5_NP V NP PP.initial_location PP.destination", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP-PP; Initial_Location-PP Goal-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 504781
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "drive-11.5_NP V NP PP.initial_location PP.destination", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP-PP; Initial_Location-PP Goal-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 504782
     }, 
     {
         "corpus": "VerbNet", 
@@ -1185,30 +1137,6 @@
             "secondary": "NP-PP; Initial_Location-PP", 
             "xtag": ""
         }, 
-        "pair-id": 504784
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "drive-11.5_NP V NP PP.initial_location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; Initial_Location-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 504785
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "drive-11.5_NP V NP PP.initial_location", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; Initial_Location-PP", 
-            "xtag": ""
-        }, 
         "pair-id": 504786
     }, 
     {
@@ -1221,55 +1149,7 @@
             "secondary": "NP-PP; Goal-PP", 
             "xtag": ""
         }, 
-        "pair-id": 504787
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "drive-11.5_NP V NP PP.destination", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; Goal-PP", 
-            "xtag": ""
-        }, 
-        "pair-id": 504788
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "drive-11.5_NP V NP PP.destination", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "NP-PP; Goal-PP", 
-            "xtag": ""
-        }, 
         "pair-id": 504789
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "drive-11.5_NP V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Basic Transitive; with accompanied motion", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 504790
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "drive-11.5_NP V NP", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "0.2", 
-            "secondary": "Basic Transitive; with accompanied motion", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 504791
     }, 
     {
         "corpus": "VerbNet", 
@@ -1330,18 +1210,6 @@
             "xtag": "0.2"
         }, 
         "pair-id": 504796
-    }, 
-    {
-        "corpus": "VerbNet", 
-        "corpus-license": "http://verbs.colorado.edu/verbnet_downloads/license.3.0.txt", 
-        "corpus-sent-id": "confess-37.10_NP V PP.recipient", 
-        "creation-approach": "automatic", 
-        "misc": {
-            "descriptionNumber": "8.1", 
-            "secondary": "PP; to-PP", 
-            "xtag": "0.2"
-        }, 
-        "pair-id": 504797
     }, 
     {
         "corpus": "VerbNet", 

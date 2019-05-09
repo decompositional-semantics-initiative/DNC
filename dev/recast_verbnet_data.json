@@ -1198,32 +1198,6 @@
     {
         "binary-label": false, 
         "context": "Amanda drove the package to New York from home .", 
-        "hypothesis": "Amanda moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 504778, 
-        "split": "dev", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Amanda drove the package to New York from home .", 
-        "hypothesis": "The package moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 504779, 
-        "split": "dev", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Amanda drove the package to New York from home .", 
         "hypothesis": "The package caused the driving .", 
         "label": "not-entailed", 
         "label-set": [
@@ -1231,32 +1205,6 @@
             "not-entailed"
         ], 
         "pair-id": 504780, 
-        "split": "dev", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Amanda drove the package from home to New York .", 
-        "hypothesis": "Amanda moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 504781, 
-        "split": "dev", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Amanda drove the package from home to New York .", 
-        "hypothesis": "The package moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 504782, 
         "split": "dev", 
         "type-of-inference": "Thematic Roles"
     }, 
@@ -1276,32 +1224,6 @@
     {
         "binary-label": false, 
         "context": "Amanda drove the package from home .", 
-        "hypothesis": "Amanda moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 504784, 
-        "split": "dev", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Amanda drove the package from home .", 
-        "hypothesis": "The package moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 504785, 
-        "split": "dev", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Amanda drove the package from home .", 
         "hypothesis": "The package caused the driving .", 
         "label": "not-entailed", 
         "label-set": [
@@ -1315,32 +1237,6 @@
     {
         "binary-label": false, 
         "context": "Amanda drove the package to New York .", 
-        "hypothesis": "Amanda moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 504787, 
-        "split": "dev", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Amanda drove the package to New York .", 
-        "hypothesis": "The package moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 504788, 
-        "split": "dev", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Amanda drove the package to New York .", 
         "hypothesis": "The package caused the driving .", 
         "label": "not-entailed", 
         "label-set": [
@@ -1348,32 +1244,6 @@
             "not-entailed"
         ], 
         "pair-id": 504789, 
-        "split": "dev", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Amanda drove the package .", 
-        "hypothesis": "Amanda moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 504790, 
-        "split": "dev", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "Amanda drove the package .", 
-        "hypothesis": "The package moved .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 504791, 
         "split": "dev", 
         "type-of-inference": "Thematic Roles"
     }, 
@@ -1439,19 +1309,6 @@
             "not-entailed"
         ], 
         "pair-id": 504796, 
-        "split": "dev", 
-        "type-of-inference": "Thematic Roles"
-    }, 
-    {
-        "binary-label": false, 
-        "context": "They confessed to us .", 
-        "hypothesis": "They caused the confessing .", 
-        "label": "not-entailed", 
-        "label-set": [
-            "entailed", 
-            "not-entailed"
-        ], 
-        "pair-id": 504797, 
         "split": "dev", 
         "type-of-inference": "Thematic Roles"
     }, 
