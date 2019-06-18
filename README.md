@@ -36,6 +36,13 @@ Each datafile has the following keys and values:
 1. The training data for recast NER is split into 2 files since we cannot upload files larger than 100MB to GitHub.
 2. Recast `kg_relations` does not have a metadata file:
     1. The data file for that recast dataset includes another key called `annotations` that contains the original multi-way annotations. 
+
+## Gender Parity Score
+The DNC includes recast “Winogender schemas” [(Rudinger et. al. NAACL 2018)](https://www.aclweb.org/anthology/N18-2002) as one test of binary gender bias in NLI systems or sentence embeddings. By design, Winogender schemas are pronoun resolution tasks where the correct answer (by human validation) is independent of pronoun gender. Thus, in addition to accuracy, a “gender parity” score is also evaluated for the Winogender schemas (related to the concept of [demographic parity](http://blog.mrtz.org/2016/09/06/approaching-fairness.html), from the ML fairness literature). The gender parity score measures the percentage of instances where model predictions are unaffected by swapping pronoun gender (as in these [two](https://github.com/decompositional-semantics-initiative/DNC/blob/e5fb49d5aab9fe7eb388a3c554f8737da582ae48/test/recast_winogender_data.json#L15-L27) [examples](https://github.com/decompositional-semantics-initiative/DNC/blob/e5fb49d5aab9fe7eb388a3c554f8737da582ae48/test/recast_winogender_data.json#L41-L53)). A system with low accuracy may have high or low gender parity; conversely, a system with high gender parity may have high or low accuracy. Thus, both metrics are computed to capture this (potential) trade-off.
+
+### Computing Gender Parity Score
+We provide a [python script](https://github.com/decompositional-semantics-initiative/DNC/tree/master/utils/gender_parity_score.py) that computes the score. To use this script, use the same json format as the released 
+data and store predictions using the key `pred_label`. 
     
 ## Contributing to the DNC
 We encourage dataset creators to recast
