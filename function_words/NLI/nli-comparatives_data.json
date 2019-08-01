@@ -1,0 +1,1248 @@
+[
+    {
+        "binary-label": false,
+        "context": "The member countries have more people and exports than the United States but a somewhat smaller gross domestic product .",
+        "hypothesis": "The United States has not a larger gross domestic product than the member countries .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572485,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "The member countries have more people and exports than the United States but a somewhat smaller gross domestic product .",
+        "hypothesis": "The United States has a larger gross domestic product than the member countries .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572486,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "An ACI system requires much less in terms of steel , labor , or other resources to install than either FGD or SCR technology .",
+        "hypothesis": "The ACI system is more resource-intensive than other technologies .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572487,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "An ACI system requires much less in terms of steel , labor , or other resources to install than either FGD or SCR technology .",
+        "hypothesis": "The ACI system is not more resource-intensive than other technologies .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572488,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "We received and considered more than 200 comments , the majority of which we addressed .",
+        "hypothesis": "There were not less than 100 comments received .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572489,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "We received and considered more than 200 comments , the majority of which we addressed .",
+        "hypothesis": "There were less than 100 comments received .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572490,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "What they do know , however , is that men 's chins have been getting larger over the last 200 generations .",
+        "hypothesis": "The chins have not gotten smaller over the years .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572491,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "What they do know , however , is that men 's chins have been getting larger over the last 200 generations .",
+        "hypothesis": "The chins have gotten smaller over the years .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572492,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "Some have noted that the less robust estimates based on the Six-Cities Study are significantly higher than those based on the more broadly distributed ACS data sets .",
+        "hypothesis": "The less robust estimates are not based on the Six-Cities Study .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572493,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "Some have noted that the less robust estimates based on the Six-Cities Study are significantly higher than those based on the more broadly distributed ACS data sets .",
+        "hypothesis": "The less robust estimates are based on the Six-Cities Study .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572494,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "He was a smaller man , only slightly taller than San ` doro .",
+        "hypothesis": "He was not a bit larger than San ` doro .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572495,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "He was a smaller man , only slightly taller than San ` doro .",
+        "hypothesis": "He was a bit larger than San ` doro .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572496,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "The distribution of route profits is much more skewed for the U.S.",
+        "hypothesis": "Distribution of route profits is not less skewed for the US .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572497,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "The distribution of route profits is much more skewed for the U.S.",
+        "hypothesis": "Distribution of route profits is less skewed for the US .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572498,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "They even weighed themselves less often -LRB- three times a month vs. seven times a month -RRB- .",
+        "hypothesis": "They even weighed themselves more often .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572499,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "They even weighed themselves less often -LRB- three times a month vs. seven times a month -RRB- .",
+        "hypothesis": "They even did not weigh themselves more often .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572500,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "and other , less printable , rhymes .",
+        "hypothesis": "There are other more printable rhymes .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572501,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "and other , less printable , rhymes .",
+        "hypothesis": "There are not other more printable rhymes .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572502,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "Huge men with golden skin stood next to smaller darker men of thinner build .",
+        "hypothesis": "The larger men were very dark .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572503,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "Huge men with golden skin stood next to smaller darker men of thinner build .",
+        "hypothesis": "The larger men were not very dark .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572504,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "Huge men with golden skin stood next to smaller darker men of thinner build .",
+        "hypothesis": "The larger men had not light skin .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572505,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "While Hollywood is more remembered than experienced nowadays , its neighbor West Hollywood a separate , incorporated city defines the new cutting edge .",
+        "hypothesis": "Hollywood is not less experienced than remembered now actually .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572506,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "While Hollywood is more remembered than experienced nowadays , its neighbor West Hollywood a separate , incorporated city defines the new cutting edge .",
+        "hypothesis": "Hollywood is less experienced than remembered now actually .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572507,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "The drug warriors seek more drug-free zones .",
+        "hypothesis": "Drug warriors do not want less drug-free zones .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572508,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "The drug warriors seek more drug-free zones .",
+        "hypothesis": "Drug warriors want less drug-free zones .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572509,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "Ned Devine is this year 's stab at The Full Monty -LRB- 1997 -RRB- , which made more than $ 100 million and even snagged an Oscar nomination .",
+        "hypothesis": "The film did not make less than $ 10 .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572510,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "Ned Devine is this year 's stab at The Full Monty -LRB- 1997 -RRB- , which made more than $ 100 million and even snagged an Oscar nomination .",
+        "hypothesis": "The film made less than $ 10 .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572511,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "5 In addition , typical MEL absorber units need less steel due to the use of smaller absorbers enabled by shorter residence time requirements than for LFSO systems .",
+        "hypothesis": "Less steel is not required by the more common MEL absorber units .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572512,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "5 In addition , typical MEL absorber units need less steel due to the use of smaller absorbers enabled by shorter residence time requirements than for LFSO systems .",
+        "hypothesis": "Less steel is required by the more common MEL absorber units .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572513,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "For Clinton , the challenge of dominance is to act more responsibly and less politically .",
+        "hypothesis": "Clinton 's challenge of dominance is to act more responsibly and less politically .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572514,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "For Clinton , the challenge of dominance is to act more responsibly and less politically .",
+        "hypothesis": "Clinton 's challenge of dominance is not to act more responsibly and less politically .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572515,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "As a consequence , the PRC costing methodology generally attributes a larger portion of total operating costs than does the Service .",
+        "hypothesis": "Under the PRC costing methodology , there is not a smaller portion of total operating costs compared to the Service .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572516,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "As a consequence , the PRC costing methodology generally attributes a larger portion of total operating costs than does the Service .",
+        "hypothesis": "Under the PRC costing methodology , there is a smaller portion of total operating costs compared to the Service .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572517,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "These reform efforts being undertaken in major democracies are taking a generally consistent direction , requiring government organizations to focus more on results and less on process .",
+        "hypothesis": "The reform efforts in major democracies require governmental organizations to focus more on results .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572518,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "These reform efforts being undertaken in major democracies are taking a generally consistent direction , requiring government organizations to focus more on results and less on process .",
+        "hypothesis": "The reform efforts in major democracies do not require governmental organizations to focus more on results .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572519,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "The larger parks are quite expensive , so plan a long stay to get your money 's worth .",
+        "hypothesis": "Larger parks are cheaper than smaller parks .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572520,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "The larger parks are quite expensive , so plan a long stay to get your money 's worth .",
+        "hypothesis": "Larger parks are not cheaper than smaller parks .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572521,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "And while multinational chains have made inroads , they seem less blatant here than elsewhere .",
+        "hypothesis": "Multinational chains are not more common here than anywhere else .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572522,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "And while multinational chains have made inroads , they seem less blatant here than elsewhere .",
+        "hypothesis": "Multinational chains are more common here than anywhere else .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572523,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "He is much more heartfelt about prison reform than about Wachtler reform .",
+        "hypothesis": "He is not less passionate about Wachtler reform than he is about prison reform .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572524,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "He is much more heartfelt about prison reform than about Wachtler reform .",
+        "hypothesis": "He is less passionate about Wachtler reform than he is about prison reform .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572525,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "As noted in Chapter 4 , ACI entails a much smaller construction project than either an FGD or an SCR .",
+        "hypothesis": "FGD and SCR are larger construction projects than ACI .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572526,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "As noted in Chapter 4 , ACI entails a much smaller construction project than either an FGD or an SCR .",
+        "hypothesis": "FGD and SCR are not larger construction projects than ACI .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572527,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "there were two two separate furnace rooms and so i took the smaller furnace room and now it 's full of trains",
+        "hypothesis": "I did not choose to take the larger furnace room .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572528,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "there were two two separate furnace rooms and so i took the smaller furnace room and now it 's full of trains",
+        "hypothesis": "I chose to take the larger furnace room .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572529,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "Parents are rushing to enroll kids in charters , which generally offer smaller classes and more enthusiastic teachers .",
+        "hypothesis": "Charters generally have not significantly larger classes .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572530,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "Parents are rushing to enroll kids in charters , which generally offer smaller classes and more enthusiastic teachers .",
+        "hypothesis": "Charters generally have significantly larger classes .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572531,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "In a sense , you get more ballet for your money in the Kirov version .",
+        "hypothesis": "You do not spend less money for the ballet content found in the Kirov version .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572532,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "In a sense , you get more ballet for your money in the Kirov version .",
+        "hypothesis": "You spend less money for the ballet content found in the Kirov version .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572533,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "San ` doro cut open the thigh of another rider , the smaller of the two .",
+        "hypothesis": "The larger rider was not cut on the thigh .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572534,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "San ` doro cut open the thigh of another rider , the smaller of the two .",
+        "hypothesis": "The larger rider was cut on the thigh .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572535,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "Cave 9 , a sanctuary from the first century b.c. , is smaller than number 10 .",
+        "hypothesis": "Number 10 is larger than the ancient Cave 9 .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572536,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "Cave 9 , a sanctuary from the first century b.c. , is smaller than number 10 .",
+        "hypothesis": "Number 10 is not larger than the ancient Cave 9 .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572537,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "Buses to the beaches are cheaper and faster than the ferries , if less adventurous .",
+        "hypothesis": "The buses are more expensive than the ferry",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572538,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "Buses to the beaches are cheaper and faster than the ferries , if less adventurous .",
+        "hypothesis": "The buses are not more expensive than the ferry",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572539,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "As Bush 's inquisitors focus less on the truth and more on politics , the inquisition becomes self-justifying .",
+        "hypothesis": "The inquisitors are self justifying as they focus less on the truth .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572540,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "As Bush 's inquisitors focus less on the truth and more on politics , the inquisition becomes self-justifying .",
+        "hypothesis": "The inquisitors are not self justifying as they focus less on the truth .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572541,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "This agreement , which gave the Serbs a great deal more than Vance-Owen would have , was puffed as a Nobel-worthy diplomatic accomplishment .",
+        "hypothesis": "That agreement did not give the Serbs a lot less than Vance-Owen would have .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572542,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "This agreement , which gave the Serbs a great deal more than Vance-Owen would have , was puffed as a Nobel-worthy diplomatic accomplishment .",
+        "hypothesis": "That agreement gave the Serbs a lot less than Vance-Owen would have .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572543,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "Less sophisticated than Ambleside and less commercial than Bowness , it has a simple charm that many visitors find more appealing .",
+        "hypothesis": "It is not more sophisticated and commercial than the nearby towns of Bowness and Ambleside .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572544,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "Less sophisticated than Ambleside and less commercial than Bowness , it has a simple charm that many visitors find more appealing .",
+        "hypothesis": "It is more sophisticated and commercial than the nearby towns of Bowness and Ambleside .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572545,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "A relatively new project in orchid breeding , it has some 50,000 plants and more than 4,000 varieties of delicate orchids .",
+        "hypothesis": "The new project has less than 25,000 plants .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572546,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "A relatively new project in orchid breeding , it has some 50,000 plants and more than 4,000 varieties of delicate orchids .",
+        "hypothesis": "The new project has not less than 25,000 plants .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572547,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "A 38-cm -LRB- 15-in -RRB- narrow-gauge railway , it carries a tiny engine and even smaller carriages through rolling countryside towards the coast at Ravenglass .",
+        "hypothesis": "The carriages are not larger than the train engine itself .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572548,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "A 38-cm -LRB- 15-in -RRB- narrow-gauge railway , it carries a tiny engine and even smaller carriages through rolling countryside towards the coast at Ravenglass .",
+        "hypothesis": "The carriages are larger than the train engine itself .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572549,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "An ACI system requires much less in terms of steel , labor , or other resources to install than either FGD or SCR technology .",
+        "hypothesis": "FGD and SCR technology both take more resources to install than an ACI system .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572550,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "An ACI system requires much less in terms of steel , labor , or other resources to install than either FGD or SCR technology .",
+        "hypothesis": "FGD and SCR technology both do not take more resources to install than an ACI system .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572551,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "Larger transaction networks -LRB- be they mail , packages , overnight or telephone -RRB- are more valuable to customers and providers than smaller networks .",
+        "hypothesis": "A bigger network has better benefits for those that use it .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572552,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "Larger transaction networks -LRB- be they mail , packages , overnight or telephone -RRB- are more valuable to customers and providers than smaller networks .",
+        "hypothesis": "A bigger network has not better benefits for those that use it .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572553,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "Between the two buildings , East Princes Gardens are smaller than the West Gardens .",
+        "hypothesis": "The West Gardens is not larger than East Princes Gardens .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572554,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "Between the two buildings , East Princes Gardens are smaller than the West Gardens .",
+        "hypothesis": "The West Gardens is larger than East Princes Gardens .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572555,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "A little way north is another smaller town where the pace is less frantic .",
+        "hypothesis": "A little way north is not another town that is larger and more fast paced .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572556,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "A little way north is another smaller town where the pace is less frantic .",
+        "hypothesis": "A little way north is another town that is larger and more fast paced .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572557,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "The Pyramid of Kephren is smaller than the Great Pyramid , though its location on slightly higher ground makes it seem taller .",
+        "hypothesis": "The Great is not larger than the Pyramid of Kephren .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572558,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "The Pyramid of Kephren is smaller than the Great Pyramid , though its location on slightly higher ground makes it seem taller .",
+        "hypothesis": "The Great is larger than the Pyramid of Kephren .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572559,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "Emissions were reduced faster than required , and at far less cost .",
+        "hypothesis": "Emissions did not decline more quickly and less expensively than anticipated .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572560,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "Emissions were reduced faster than required , and at far less cost .",
+        "hypothesis": "Emissions declined more quickly and less expensively than anticipated .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572561,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "That 's because they suddenly have more money than the eligibility threshold for aid .",
+        "hypothesis": "They have not much less money than they need .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572562,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "That 's because they suddenly have more money than the eligibility threshold for aid .",
+        "hypothesis": "They have much less money than they need .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572563,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "It 's more respectable than I thought it would be , said Tuppence thoughtfully .",
+        "hypothesis": "It was not less decent than Tuppence thought it would be .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572564,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "It 's more respectable than I thought it would be , said Tuppence thoughtfully .",
+        "hypothesis": "It was less decent than Tuppence thought it would be .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572565,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "In the great tradition of hotel and travel ads , the guys tend to be markedly less attractive than the women .",
+        "hypothesis": "In travel and hotel ads , the man is not always made more attractive than the woman .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572566,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "In the great tradition of hotel and travel ads , the guys tend to be markedly less attractive than the women .",
+        "hypothesis": "In travel and hotel ads , the man is always made more attractive than the woman .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572567,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "And , when the no-shift elasticities of the basic and workshared product are the same , the gains become even smaller and the peak becomes very pronounced .",
+        "hypothesis": "The gains do not become larger and the peak less pronounced when the no-shift elasticities of the basic and workshared product are the same .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572568,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "And , when the no-shift elasticities of the basic and workshared product are the same , the gains become even smaller and the peak becomes very pronounced .",
+        "hypothesis": "The gains become larger and the peak less pronounced when the no-shift elasticities of the basic and workshared product are the same .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572569,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "It allows us to create more forceful means of conditioning our grants .",
+        "hypothesis": "This does not cause us to have less control over whom gets our grants .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572570,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "It allows us to create more forceful means of conditioning our grants .",
+        "hypothesis": "This causes us to have less control over whom gets our grants .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572571,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": true,
+        "context": "At just 5 km -LRB- 3 miles -RRB- in length it is more manageable than some of the larger lakes .",
+        "hypothesis": "There are some lakes that are less manageable .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572572,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    },
+    {
+        "binary-label": false,
+        "context": "At just 5 km -LRB- 3 miles -RRB- in length it is more manageable than some of the larger lakes .",
+        "hypothesis": "There are not some lakes that are less manageable .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 572573,
+        "split": "dev",
+        "type-of-inference": "nli-comparatives"
+    }
+]

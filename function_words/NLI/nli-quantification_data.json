@@ -1,0 +1,4524 @@
+[
+    {
+        "binary-label": true,
+        "context": "Now home to more than 700,000 people -LRB- one-third of the population of Jamaica -RRB- , it is a huge city with many facets .",
+        "hypothesis": "The city is home to more than 700,000 Jamaican residents .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573523,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Now home to more than 700,000 people -LRB- one-third of the population of Jamaica -RRB- , it is a huge city with many facets .",
+        "hypothesis": "The city is not home to more than 700,000 Jamaican residents .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573524,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The company has already secured more than $ 8 million in venture-capital financing .",
+        "hypothesis": "They did not secure less than $ 8 million in financing .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573525,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The company has already secured more than $ 8 million in venture-capital financing .",
+        "hypothesis": "They secured less than $ 8 million in financing .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573526,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The museum was closed in mid-1997 for more renovation and to move part of the collection to the new Museum at the Getty Ceter in Brentwood .",
+        "hypothesis": "The museum was renovated in the mid nighties while some artifacts were moved elsewhere /",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573527,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The museum was closed in mid-1997 for more renovation and to move part of the collection to the new Museum at the Getty Ceter in Brentwood .",
+        "hypothesis": "The museum was not renovated in the mid nighties while some artifacts were moved elsewhere /",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573528,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Pooh has now sold more than 20 million books , most of them in the United States .",
+        "hypothesis": "Pooh has sold more than 20 million books .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573529,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Pooh has now sold more than 20 million books , most of them in the United States .",
+        "hypothesis": "Pooh has not sold more than 20 million books .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573530,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "there 's some",
+        "hypothesis": "There is none at all .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573531,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "there 's some",
+        "hypothesis": "There is not none at all .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573532,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "5 million - almost three times more than states appropriated in 1997 .",
+        "hypothesis": "It is less than in 1997",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573533,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "5 million - almost three times more than states appropriated in 1997 .",
+        "hypothesis": "It is not less than in 1997",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573534,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Conference participants reflected a true cross section of the country , with clients and advocates attending from more than twenty-eight -LRB- 28 -RRB- states .",
+        "hypothesis": "The conference participants came from all 50 states .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573535,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Conference participants reflected a true cross section of the country , with clients and advocates attending from more than twenty-eight -LRB- 28 -RRB- states .",
+        "hypothesis": "The conference participants did not come from all 50 states .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573536,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "In the 1830s and 1840s , the system accounted for more than three-quarters of U.S. federal employees .",
+        "hypothesis": "In the middle of the 1800 's most federal employees were not accounted for by the system .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573537,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "In the 1830s and 1840s , the system accounted for more than three-quarters of U.S. federal employees .",
+        "hypothesis": "In the middle of the 1800 's most federal employees were accounted for by the system .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573538,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "the kids love all kinds of pets you know cats and dogs and things and i know some kinds of pets are more",
+        "hypothesis": "The children like all types of pets .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573539,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "the kids love all kinds of pets you know cats and dogs and things and i know some kinds of pets are more",
+        "hypothesis": "The children do not like all types of pets .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573540,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "projections are of less value than those for the 2005 and 2010 time period .",
+        "hypothesis": "The 2005 and 2010 projections are not more valuable .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573541,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "projections are of less value than those for the 2005 and 2010 time period .",
+        "hypothesis": "The 2005 and 2010 projections are more valuable .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573542,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "They indicated that in the second half of 2001 more than 183,000 people were served .",
+        "hypothesis": "They did not suggest that more than 183,000 people were served during the last two quarters of 2001 .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573543,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "They indicated that in the second half of 2001 more than 183,000 people were served .",
+        "hypothesis": "They suggested that more than 183,000 people were served during the last two quarters of 2001 .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573544,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Conversely , Microsoft points out that IE has less than 40 percent of the browser market , compared with Netscape 's 60 percent .",
+        "hypothesis": "According to Microsoft , IE has not less than 40 percent of the browser market .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573545,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Conversely , Microsoft points out that IE has less than 40 percent of the browser market , compared with Netscape 's 60 percent .",
+        "hypothesis": "According to Microsoft , IE has less than 40 percent of the browser market .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573546,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "According to the analysis , 60 winning bidders for the 900 MHz licenses qualify as small entities -LRB- no breakdown of small vs. very small -RRB- .",
+        "hypothesis": "According to the analysis , all winning bidders do not qualify as huge entities .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573547,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "According to the analysis , 60 winning bidders for the 900 MHz licenses qualify as small entities -LRB- no breakdown of small vs. very small -RRB- .",
+        "hypothesis": "According to the analysis , all winning bidders qualify as huge entities .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573548,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Fueled by conglomerate investment , publishers released more than 60,000 new titles in 1995 , at least 10,000 more than in 1985 .",
+        "hypothesis": "The publishers did not release a lot of titles because it earned them some money back",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573549,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "EPA estimated that , of the total 1,300 MWe to be retrofit by 2020 with ACI , all of that capacity would have existing fabric filters .",
+        "hypothesis": "EPA does not estimate that none of the MWe will be retrofitted due to budget cuts .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573550,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "EPA estimated that , of the total 1,300 MWe to be retrofit by 2020 with ACI , all of that capacity would have existing fabric filters .",
+        "hypothesis": "EPA estimates that none of the MWe will be retrofitted due to budget cuts .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573551,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "There are more than 200 churches in Madrid , though in this country replete with spectacular cathedrals and churches , few are essential sights .",
+        "hypothesis": "Madrid has not more than 200 churches .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573552,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "There are more than 200 churches in Madrid , though in this country replete with spectacular cathedrals and churches , few are essential sights .",
+        "hypothesis": "Madrid has more than 200 churches .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573553,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "A relatively new project in orchid breeding , it has some 50,000 plants and more than 4,000 varieties of delicate orchids .",
+        "hypothesis": "The new project has less than 25,000 plants .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573554,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "A relatively new project in orchid breeding , it has some 50,000 plants and more than 4,000 varieties of delicate orchids .",
+        "hypothesis": "The new project has not less than 25,000 plants .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573555,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "2 -RRB- I said no more than Blumenthal has already admitted .",
+        "hypothesis": "I said more than Blumenthal admitted .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573556,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "2 -RRB- I said no more than Blumenthal has already admitted .",
+        "hypothesis": "I did not say more than Blumenthal admitted .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573557,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The most fearless and enthusiastic pups are the most likely to be bred to pass that herding gene on to the next generation .",
+        "hypothesis": "The least fearless pups are not the most likely to be bred to pass that herding gene on .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573558,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The most fearless and enthusiastic pups are the most likely to be bred to pass that herding gene on to the next generation .",
+        "hypothesis": "The least fearless pups are the most likely to be bred to pass that herding gene on .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573559,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Orders for 100 or more copies mailed to a single address are discounted 25 percent .",
+        "hypothesis": "There is not a discount for more than 100 copies send to a location",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573560,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Orders for 100 or more copies mailed to a single address are discounted 25 percent .",
+        "hypothesis": "There is a discount for more than 100 copies send to a location",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573561,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Right now , ADSL is ridiculously expensive -- more than $ 1,000 for the modem alone .",
+        "hypothesis": "At this very moment , ADSL modems are on sale for less than $ 1 .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573562,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Right now , ADSL is ridiculously expensive -- more than $ 1,000 for the modem alone .",
+        "hypothesis": "At this very moment , ADSL modems are not on sale for less than $ 1 .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573563,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "However , if more than one system is installed at a site , some significant efficiencies result .",
+        "hypothesis": "Powerful inefficiencies do not occur when more than one system is installed .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573564,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "However , if more than one system is installed at a site , some significant efficiencies result .",
+        "hypothesis": "Powerful inefficiencies occur when more than one system is installed .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573565,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "For retrofits starting in 2005 facility owners are likely to have more than three years to complete this work as many of these retrofits have already begun .",
+        "hypothesis": "Facility owners usually have more than three years to finish the work .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573566,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "For retrofits starting in 2005 facility owners are likely to have more than three years to complete this work as many of these retrofits have already begun .",
+        "hypothesis": "Facility owners usually have not more than three years to finish the work .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573567,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "1 The reduced requirement for structural steel is due to the FGD absorber usually being self-supporting , weighing less , and being installed closer to the ground .",
+        "hypothesis": "The FDG absorber does not make building more dangerous .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573568,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "1 The reduced requirement for structural steel is due to the FGD absorber usually being self-supporting , weighing less , and being installed closer to the ground .",
+        "hypothesis": "The FDG absorber makes building more dangerous .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573569,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The Citigroup deal , from beginning to end , took less than five weeks .",
+        "hypothesis": "The deal took less than 5 weeks from start to finish .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573570,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The Citigroup deal , from beginning to end , took less than five weeks .",
+        "hypothesis": "The deal did not take less than 5 weeks from start to finish .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573571,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Excursion companies sell a variety of orientation cruises of Hong Kong harbor that include a look at some of its 235 outlying islands .",
+        "hypothesis": "There are not more than 200 outlying islands in the Hong Kong area .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573572,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Excursion companies sell a variety of orientation cruises of Hong Kong harbor that include a look at some of its 235 outlying islands .",
+        "hypothesis": "There are more than 200 outlying islands in the Hong Kong area .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573573,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "She says that in some countries where birth control has been unavailable , almost all indigenous groups they can work with have some abortion ties .",
+        "hypothesis": "She does not say that where contraceptives are unavailable , almost all the groups they work with are tied to abortion .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573574,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "She says that in some countries where birth control has been unavailable , almost all indigenous groups they can work with have some abortion ties .",
+        "hypothesis": "She says that where contraceptives are unavailable , almost all the groups they work with are tied to abortion .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573575,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "By starting at the soft underbelly , the 16,000 troops of General Nelson A. Miles gained control of the island in less than three weeks .",
+        "hypothesis": "It did not take less than three weeks for General Miles to gain control of the island .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573576,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "By starting at the soft underbelly , the 16,000 troops of General Nelson A. Miles gained control of the island in less than three weeks .",
+        "hypothesis": "It took less than three weeks for General Miles to gain control of the island .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573577,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The most extensive field experiments , conducted under the National Crop Loss Assessment Network -LRB- NCLAN -RRB- , examined 15 species and numerous cultivars .",
+        "hypothesis": "There NCLAN did not conduct some extensive experiments in the field .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573578,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The most extensive field experiments , conducted under the National Crop Loss Assessment Network -LRB- NCLAN -RRB- , examined 15 species and numerous cultivars .",
+        "hypothesis": "There NCLAN conducted some extensive experiments in the field .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573579,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Due to emergency department time constraints , so-called brief motivational interventions are the intervention model most likely to be successfully implemented .",
+        "hypothesis": "Brief motivational interventions are the least likely model to be implemented .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573580,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Due to emergency department time constraints , so-called brief motivational interventions are the intervention model most likely to be successfully implemented .",
+        "hypothesis": "Brief motivational interventions are not the least likely model to be implemented .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573581,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "But in November 170 faculty members asked the academic senate to adopt a more conventional grading system .",
+        "hypothesis": "Faculty members did not want a less conventional grading system .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573582,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "But in November 170 faculty members asked the academic senate to adopt a more conventional grading system .",
+        "hypothesis": "Faculty members wanted a less conventional grading system .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573583,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "This encourages the least expensive reductions over time as well as across facilities .",
+        "hypothesis": "This encourages the most expensive reductions over time , defeating the purpose .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573584,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "This encourages the least expensive reductions over time as well as across facilities .",
+        "hypothesis": "This does not encourage the most expensive reductions over time , defeating the purpose .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573585,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "well i 've noticed that it seems uh some women are i guess what i call the feministus",
+        "hypothesis": "I have noticed that all women are feminists .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573586,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "well i 've noticed that it seems uh some women are i guess what i call the feministus",
+        "hypothesis": "I have not noticed that all women are feminists .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573587,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "By production , it strives to have all critical manufacturing processes for the product-including key suppliers ' processes-in control with a Cpk index of at least 1.33 .",
+        "hypothesis": "It works to have all important manufacturing process for the product by production .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573588,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "By production , it strives to have all critical manufacturing processes for the product-including key suppliers ' processes-in control with a Cpk index of at least 1.33 .",
+        "hypothesis": "It does not work to have all important manufacturing process for the product by production .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573589,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "For women of all ages and men older than age 65 , more than 7 drinks/week or more than 3 drinks/occasion is considered at risk .",
+        "hypothesis": "Drinking more than 7 drinks a week is not problematic behavior .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573590,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "For women of all ages and men older than age 65 , more than 7 drinks/week or more than 3 drinks/occasion is considered at risk .",
+        "hypothesis": "Drinking more than 7 drinks a week is problematic behavior .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573591,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Although the program continues to survive , its funding has been reduced by more than $ 100 million .",
+        "hypothesis": "The program has had its funding slashed by more than 100 million dollars .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573592,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Although the program continues to survive , its funding has been reduced by more than $ 100 million .",
+        "hypothesis": "The program has not had its funding slashed by more than 100 million dollars .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573593,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Every village and town has at least one Public House , or pub , where alcoholic drinks are served to adults -LRB- the drinking age is 18 -RRB- .",
+        "hypothesis": "There is often no place to locate alcoholic drinks .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573594,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Every village and town has at least one Public House , or pub , where alcoholic drinks are served to adults -LRB- the drinking age is 18 -RRB- .",
+        "hypothesis": "There is not often no place to locate alcoholic drinks .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573595,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "LAD services more than 15,000 citizens annually .",
+        "hypothesis": "LAD services more than 15,000 people each year .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573596,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "LAD services more than 15,000 citizens annually .",
+        "hypothesis": "LAD does not service more than 15,000 people each year .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573597,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Ned Devine is this year 's stab at The Full Monty -LRB- 1997 -RRB- , which made more than $ 100 million and even snagged an Oscar nomination .",
+        "hypothesis": "The film did not make less than $ 10 .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573598,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Ned Devine is this year 's stab at The Full Monty -LRB- 1997 -RRB- , which made more than $ 100 million and even snagged an Oscar nomination .",
+        "hypothesis": "The film made less than $ 10 .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573599,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Today there are more than 300,000 .",
+        "hypothesis": "Today there are less than 300,000 .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573600,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Today there are more than 300,000 .",
+        "hypothesis": "Today there are not less than 300,000 .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573601,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Among households making less than $ 40,000 a year , whites were six times as likely as blacks to have used the Web .",
+        "hypothesis": "Whites are not more likely to have used the web in households of low income .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573602,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Among households making less than $ 40,000 a year , whites were six times as likely as blacks to have used the Web .",
+        "hypothesis": "Whites are more likely to have used the web in households of low income .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573603,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The Aswan sound and light show takes place at Philae Temple some 20 minutes away .",
+        "hypothesis": "Philae Temple is not more than 40 minutes away .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573604,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The Aswan sound and light show takes place at Philae Temple some 20 minutes away .",
+        "hypothesis": "Philae Temple is more than 40 minutes away .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573605,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Reportedly the biggest payment made in such a case , it is hardly a nick in Texaco 's annual revenue of more than $ 30 billion .",
+        "hypothesis": "Texaco had not annual revenue of more than 30 billion dollars .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573606,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Reportedly the biggest payment made in such a case , it is hardly a nick in Texaco 's annual revenue of more than $ 30 billion .",
+        "hypothesis": "Texaco had annual revenue of more than 30 billion dollars .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573607,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "He began trying to plan a model with three thousand stars in their orbits , trying to find some simple way of moving them .",
+        "hypothesis": "He started attempting to plan a model with no stars at all .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573608,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "He began trying to plan a model with three thousand stars in their orbits , trying to find some simple way of moving them .",
+        "hypothesis": "He did not start attempting to plan a model with no stars at all .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573609,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The stone-stepped embankments leading down to the Ganga river are the gathering place of more than 250,000 pilgrims a year .",
+        "hypothesis": "Leading down to the embankments is not a gathering place of more than 250,000 pilgrims on a year .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573610,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The stone-stepped embankments leading down to the Ganga river are the gathering place of more than 250,000 pilgrims a year .",
+        "hypothesis": "Leading down to the embankments is a gathering place of more than 250,000 pilgrims on a year .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573611,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Next door is one of the city 's most luxurious hotels , Hotel Santa Isabel .",
+        "hypothesis": "Hotel Santa Isabel is one of the least luxurious hotels .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573612,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Next door is one of the city 's most luxurious hotels , Hotel Santa Isabel .",
+        "hypothesis": "Hotel Santa Isabel is not one of the least luxurious hotels .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573613,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The sites , www.illinoislegalaid.org and www.illinoisprobono.org , include a list of more than 90 state agencies , most of which provide direct legal services to indigent clients .",
+        "hypothesis": "The list of state agencies was available on more than one site .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573614,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The sites , www.illinoislegalaid.org and www.illinoisprobono.org , include a list of more than 90 state agencies , most of which provide direct legal services to indigent clients .",
+        "hypothesis": "The list of state agencies was not available on more than one site .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573615,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Based on the fragment , Fink speculates that the original flute contained at least six holes and was close to 16 inches long .",
+        "hypothesis": "The flute has less than five holes .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573616,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "23 percent are funds which meet the definition of small entities with net assets of $ 50 million or less at the end of the most recent fiscal year .",
+        "hypothesis": "23 % of the funds are for small businesses with less than $ 50 million in assets .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573617,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "23 percent are funds which meet the definition of small entities with net assets of $ 50 million or less at the end of the most recent fiscal year .",
+        "hypothesis": "23 % of the funds are not for small businesses with less than $ 50 million in assets .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573618,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "In 1898 , under the Convention of Peking , China leased the New Territories and 235 more islands to Britain for what then seemed an eternity 99 years .",
+        "hypothesis": "Britain possessed over two hundred unique islands for some time .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573619,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "In 1898 , under the Convention of Peking , China leased the New Territories and 235 more islands to Britain for what then seemed an eternity 99 years .",
+        "hypothesis": "Britain did not possess over two hundred unique islands for some time .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573620,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Interestingly , as figure 2.3 shows , saving as a share of GDP across all of these countries has declined since the 1960s .",
+        "hypothesis": "Figure 2.3 shows some interesting information about GDP .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573621,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Interestingly , as figure 2.3 shows , saving as a share of GDP across all of these countries has declined since the 1960s .",
+        "hypothesis": "Figure 2.3 does not show some interesting information about GDP .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573622,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Humans have been active in the Lake District for at least 8,000 years .",
+        "hypothesis": "Humans have not been known to be active in the Lake District for at least eight thousand days .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573623,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Humans have been active in the Lake District for at least 8,000 years .",
+        "hypothesis": "Humans have been known to be active in the Lake District for at least eight thousand days .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573624,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The United States is ready for war , having amassed more than 20,000 troops in Kuwait and Saudi Arabia .",
+        "hypothesis": "There are more than 20,000 US troops in Kuwait and Saudi Arabia .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573625,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The United States is ready for war , having amassed more than 20,000 troops in Kuwait and Saudi Arabia .",
+        "hypothesis": "There are not more than 20,000 US troops in Kuwait and Saudi Arabia .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573626,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "I know and like at least two of the reporters who asked some of the most loaded questions at the press conference .",
+        "hypothesis": "The two reporters that asked the most loaded questions at the press conference I know and like .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573627,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "I know and like at least two of the reporters who asked some of the most loaded questions at the press conference .",
+        "hypothesis": "The two reporters that asked the most loaded questions at the press conference I do not know and like .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573628,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "you have to pay more you know social security covers so much and then um you have to pay some more and she chose to pay some more",
+        "hypothesis": "Social security covers all of it .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573629,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "It is less athletic and acrobatic than the older , more romantic ballets .",
+        "hypothesis": "It is somewhat less frenetic that older , more romantic ballets .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573630,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "It is less athletic and acrobatic than the older , more romantic ballets .",
+        "hypothesis": "It is not somewhat less frenetic that older , more romantic ballets .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573631,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "oh well thanks and i guess i we 've we 've been on long enough so you have a good day all right bye-bye",
+        "hypothesis": "I love talking to you , let 's do not talk some more !",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573632,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "oh well thanks and i guess i we 've we 've been on long enough so you have a good day all right bye-bye",
+        "hypothesis": "I love talking to you , let 's talk some more !",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573633,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "This picturesque village , some 30 km -LRB- 18 miles -RRB- from the provincial capital , is more authentically Spanish in character than Benidorm , its cosmopolitan neighbour .",
+        "hypothesis": "Benidorm is not less authentically Spanish than the picturesque village .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573634,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "This picturesque village , some 30 km -LRB- 18 miles -RRB- from the provincial capital , is more authentically Spanish in character than Benidorm , its cosmopolitan neighbour .",
+        "hypothesis": "Benidorm is less authentically Spanish than the picturesque village .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573635,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Some 40 percent of Malaysians live in townships of more than 5,000 inhabitants , an exceptional proportion for the region .",
+        "hypothesis": "40 percent of Malaysians live in townships of more than 10,000 inhabitants .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573636,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Some 40 percent of Malaysians live in townships of more than 5,000 inhabitants , an exceptional proportion for the region .",
+        "hypothesis": "40 percent of Malaysians do not live in townships of more than 10,000 inhabitants .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573637,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "We received and considered more than 200 comments , the majority of which we addressed .",
+        "hypothesis": "There were not less than 100 comments received .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573638,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "We received and considered more than 200 comments , the majority of which we addressed .",
+        "hypothesis": "There were less than 100 comments received .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573639,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "She says that in some countries where birth control has been unavailable , almost all indigenous groups they can work with have some abortion ties .",
+        "hypothesis": "She does not say in some countries where birth control is unavailable all indigenous groups they work with have abortion ties .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573640,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "She says that in some countries where birth control has been unavailable , almost all indigenous groups they can work with have some abortion ties .",
+        "hypothesis": "She says in some countries where birth control is unavailable all indigenous groups they work with have abortion ties .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573641,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "As Constantinople , jewel of the Byzantine Empire , it was for more than 1,000 years the most important city in Christendom .",
+        "hypothesis": "Constantinople was the heart of the Byzantine Empire for more than a millennium .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573642,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "uh some of the young dread naughty boys in my family would fish for them all night",
+        "hypothesis": "There were not boys in my family that would stay up all night fishing for them .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573643,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "uh some of the young dread naughty boys in my family would fish for them all night",
+        "hypothesis": "There were boys in my family that would stay up all night fishing for them .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573644,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "some of them disagree i mean some of them said one way and some the other",
+        "hypothesis": "They are not all in agreement with one another .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573645,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "some of them disagree i mean some of them said one way and some the other",
+        "hypothesis": "They are all in agreement with one another .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573646,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "There are now more than 5 million Buddhists in India , many of them in Maharashtra .",
+        "hypothesis": "There are more than one million Buddhists in India .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573647,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "There are now more than 5 million Buddhists in India , many of them in Maharashtra .",
+        "hypothesis": "There are not more than one million Buddhists in India .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573648,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The most famous site on the island is the world 's tallest seated bronze statue of Buddha at 22 m -LRB- 72.6 ft -RRB- , the Tiantan Buddha .",
+        "hypothesis": "The Tiantan Buddha is not the least famous site of the island .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573649,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The most famous site on the island is the world 's tallest seated bronze statue of Buddha at 22 m -LRB- 72.6 ft -RRB- , the Tiantan Buddha .",
+        "hypothesis": "The Tiantan Buddha is the least famous site of the island .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573650,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "And some of the developments he watched were hardly what he would have preferred .",
+        "hypothesis": "He admired all of the developments that were made .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573651,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "And some of the developments he watched were hardly what he would have preferred .",
+        "hypothesis": "He did not admire all of the developments that were made .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573652,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The United States owes more than $ 1 billion in U.N. peacekeeping dues .",
+        "hypothesis": "The United States does not owe less than ten dollars in peacekeeping dues .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573653,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The United States owes more than $ 1 billion in U.N. peacekeeping dues .",
+        "hypothesis": "The United States owes less than ten dollars in peacekeeping dues .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573654,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "LSC funding represents less than 15 percent of the total funding available .",
+        "hypothesis": "LSC funding consists of less than 15 % of total funds",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573655,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The most experienced is Aqua Sport .",
+        "hypothesis": "Aqua Sport is one of the least experienced .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573656,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The most experienced is Aqua Sport .",
+        "hypothesis": "Aqua Sport is not one of the least experienced .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573657,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "There are more than 40 beaches in Hong Kong that are free to the public .",
+        "hypothesis": "Hong Kong has not more than 40 public beaches .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573658,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "There are more than 40 beaches in Hong Kong that are free to the public .",
+        "hypothesis": "Hong Kong has more than 40 public beaches .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573659,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Paris is one of the world 's most densely populated capitals .",
+        "hypothesis": "Paris is one of the least dense capitals in the world .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573660,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Paris is one of the world 's most densely populated capitals .",
+        "hypothesis": "Paris is not one of the least dense capitals in the world .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573661,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Most of the network of driveable roads is less than 40 years old .",
+        "hypothesis": "Many of the driveable roads have been around less than four decades .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573662,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Most of the network of driveable roads is less than 40 years old .",
+        "hypothesis": "Many of the driveable roads have not been around less than four decades .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573663,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Concludes the Globe : She 's more than a perfect 10 !",
+        "hypothesis": "The Globe feels that she is less than a perfect 10",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573664,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Concludes the Globe : She 's more than a perfect 10 !",
+        "hypothesis": "The Globe does not feel that she is less than a perfect 10",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573665,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "It has identified fixes for less than 50 percent of These failures .",
+        "hypothesis": "The failures have had fixes identified for less than 50 % .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573666,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "It has identified fixes for less than 50 percent of These failures .",
+        "hypothesis": "The failures have not had fixes identified for less than 50 % .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573667,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The most spectacular , directly opposite the entrance to the site , is the fifth-century b.c. Temple of Neptune -LRB- a.k.a.Poseidon -RRB- .",
+        "hypothesis": "The Temple of Neptune or Temple of Poseidon is not at least one thousand years old .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573668,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The most spectacular , directly opposite the entrance to the site , is the fifth-century b.c. Temple of Neptune -LRB- a.k.a.Poseidon -RRB- .",
+        "hypothesis": "The Temple of Neptune or Temple of Poseidon is at least one thousand years old .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573669,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Figure 4 shows that the Poste Italiane profit margin distribution is much less skewed than the U.S.",
+        "hypothesis": "Figure 4 proves that Italian profits are more steady than US ones .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573670,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Figure 4 shows that the Poste Italiane profit margin distribution is much less skewed than the U.S.",
+        "hypothesis": "Figure 4 does not prove that Italian profits are more steady than US ones .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573671,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "During the 18th century , more damage was done by the improvements of redecorators of the Ancien R ?? gime than by Revolutionary iconoclasts .",
+        "hypothesis": "Revolutionary iconoclasts did most of the damage during the 18th century .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573672,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "During the 18th century , more damage was done by the improvements of redecorators of the Ancien R ?? gime than by Revolutionary iconoclasts .",
+        "hypothesis": "Revolutionary iconoclasts did not do most of the damage during the 18th century .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573673,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Although no comments were filed that addressed the Initial Regulatory Flexibility Analysis , comments were received from 97 entities .",
+        "hypothesis": "Altogether , 206 entities sent the comments and all of them addressed Initial Regulatory Flexibility Analysis .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573674,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Although no comments were filed that addressed the Initial Regulatory Flexibility Analysis , comments were received from 97 entities .",
+        "hypothesis": "Altogether , 206 entities did not send the comments and all of them addressed Initial Regulatory Flexibility Analysis .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573675,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "10 11 In some classes , mailers transport much of their mail to downstream locations to take advantage of zoned rates for transportation .",
+        "hypothesis": "The mailers fail to take advantage of zoned rates in all classes .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573676,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "10 11 In some classes , mailers transport much of their mail to downstream locations to take advantage of zoned rates for transportation .",
+        "hypothesis": "The mailers do not fail to take advantage of zoned rates in all classes .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573677,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The Rugby Sevens sees teams come together from all over the world for 15 matches in March or early April .",
+        "hypothesis": "there are not more than 15 matches during the rugby sevens",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573678,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The Rugby Sevens sees teams come together from all over the world for 15 matches in March or early April .",
+        "hypothesis": "there are more than 15 matches during the rugby sevens",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573679,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Got him into more scrapes 'n I can count me on both hands .",
+        "hypothesis": "Got him into trouble more than 10 times .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573680,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Got him into more scrapes 'n I can count me on both hands .",
+        "hypothesis": "did not get him into trouble more than 10 times .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573681,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "At the left side of the graph where volume is least costly to deliver we find the most multiple address stops .",
+        "hypothesis": "Volume is not most costly to deliver on the left side of the graph",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573682,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "At the left side of the graph where volume is least costly to deliver we find the most multiple address stops .",
+        "hypothesis": "Volume is most costly to deliver on the left side of the graph",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573683,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Table 2.2 gives an example of a less and a more complex instance .",
+        "hypothesis": "Table 2.2 shows a less and more complex example .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573684,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Table 2.2 gives an example of a less and a more complex instance .",
+        "hypothesis": "Table 2.2 does not show a less and more complex example .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573685,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The principal shopping area in Istanbul is , undoubtedly , the Grand Bazaar , with more than 4,000 shops crammed beneath its roof .",
+        "hypothesis": "There are not less than a dozen shops in the Grand Bazaar in Istanbul .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573686,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The principal shopping area in Istanbul is , undoubtedly , the Grand Bazaar , with more than 4,000 shops crammed beneath its roof .",
+        "hypothesis": "There are less than a dozen shops in the Grand Bazaar in Istanbul .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573687,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Kwoh 's efforts have raised more than $ 300,000 from the Open Society Institute and the Community Technology Foundation of California to anchor the hotline .",
+        "hypothesis": "The anchoring of the hotline has not generated at least $ 300000 from fundraising .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573688,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Kwoh 's efforts have raised more than $ 300,000 from the Open Society Institute and the Community Technology Foundation of California to anchor the hotline .",
+        "hypothesis": "The anchoring of the hotline has generated at least $ 300000 from fundraising .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573689,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "With some exceptions , we are all democrats now .",
+        "hypothesis": "We are all republicans .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573690,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "With some exceptions , we are all democrats now .",
+        "hypothesis": "We are not all republicans .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573691,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The most impressive of the three sites is Didyma .",
+        "hypothesis": "Didyma is not the least interesting of the three places .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573692,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The most impressive of the three sites is Didyma .",
+        "hypothesis": "Didyma is the least interesting of the three places .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573693,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Menorca changed hands between Britain , France , and Spain five more times in less than a century .",
+        "hypothesis": "France , Britain , and Spain took turns controlling Menorca in less than 100 years .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573694,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Menorca changed hands between Britain , France , and Spain five more times in less than a century .",
+        "hypothesis": "France , Britain , and Spain did not take turns controlling Menorca in less than 100 years .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573695,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Hyskos rule lasted less than 100 years .",
+        "hypothesis": "Hyskos rule is not known to have lasted less than 100 years .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573696,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Hyskos rule lasted less than 100 years .",
+        "hypothesis": "Hyskos rule is known to have lasted less than 100 years .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573697,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "It all had something to do with some kind of mumbo-jumbo , and ...",
+        "hypothesis": "It was not all about the barber .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573698,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "It all had something to do with some kind of mumbo-jumbo , and ...",
+        "hypothesis": "It was all about the barber .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573699,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The overnight temperature plunges below freezing most of the year , while the average annual temperature is less than 10 ?? C -LRB- 50 ?? F -RRB- .",
+        "hypothesis": "The temperature is usually below freezing overnight for most of the year .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573700,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The overnight temperature plunges below freezing most of the year , while the average annual temperature is less than 10 ?? C -LRB- 50 ?? F -RRB- .",
+        "hypothesis": "The temperature is not usually below freezing overnight for most of the year .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573701,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "He has no fewer than three new books out at the moment .",
+        "hypothesis": "He has not at least 3 books out currently",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573702,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "He has no fewer than three new books out at the moment .",
+        "hypothesis": "He has at least 3 books out currently",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573703,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "He handed some to the other man , who quickly abandoned his own creation .",
+        "hypothesis": "He was not painting all alone in the field .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573704,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Orders for 100 or more copies to be mailed to asingleaddress arediscounted 25 percent .",
+        "hypothesis": "They give a discount for those ordering at least 100 copies .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573705,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Orders for 100 or more copies to be mailed to asingleaddress arediscounted 25 percent .",
+        "hypothesis": "They do not give a discount for those ordering at least 100 copies .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573706,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Today there are more than 300,000 .",
+        "hypothesis": "There are more than 300,000 today .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573707,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Today there are more than 300,000 .",
+        "hypothesis": "There are not more than 300,000 today .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573708,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The Rue Oscura is the most impressive of the ancient vaulted passages .",
+        "hypothesis": "The Rue Oscura is not the least pleasing of the ancient vaulted passages .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573709,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The Rue Oscura is the most impressive of the ancient vaulted passages .",
+        "hypothesis": "The Rue Oscura is the least pleasing of the ancient vaulted passages .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573710,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "hope you enjoy some more good movies lately",
+        "hypothesis": "Hope you have not been studying all the time .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573711,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "hope you enjoy some more good movies lately",
+        "hypothesis": "Hope you have been studying all the time .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573712,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The critical instance is the most frequent application",
+        "hypothesis": "Critical instances are the least used applications .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573713,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The critical instance is the most frequent application",
+        "hypothesis": "Critical instances are not the least used applications .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573714,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Moreover , LSC wanted to encourage all programs to pursue some semblance of planning .",
+        "hypothesis": "LSC did not want all the programs to plan .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573715,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Moreover , LSC wanted to encourage all programs to pursue some semblance of planning .",
+        "hypothesis": "LSC wanted all the programs to plan .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573716,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "It has elicited at least initial interest from 19 more .",
+        "hypothesis": "It did not gain at least some initial interest .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573717,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "It has elicited at least initial interest from 19 more .",
+        "hypothesis": "It gained at least some initial interest .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573718,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The eastern area of Jamaica is the most tropical and -LRB- according to many -RRB- most beautiful part of the island .",
+        "hypothesis": "The eastern part of Jamaica is not considered the least beautiful part of the island by everyone .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573719,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The eastern area of Jamaica is the most tropical and -LRB- according to many -RRB- most beautiful part of the island .",
+        "hypothesis": "The eastern part of Jamaica is considered the least beautiful part of the island by everyone .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573720,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "yeah we had some pretty strong winds pick up this morning and they 've been up been with us all day well",
+        "hypothesis": "Strong winds were picked up all day including this morning .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573721,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "yeah we had some pretty strong winds pick up this morning and they 've been up been with us all day well",
+        "hypothesis": "Strong winds were not picked up all day including this morning .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573722,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Whisking me off-stage , Natalia whispered : ` Looks like you have some of the old magic left after all . '",
+        "hypothesis": "Natalia did not tell me I still had some magic left .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573723,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Whisking me off-stage , Natalia whispered : ` Looks like you have some of the old magic left after all . '",
+        "hypothesis": "Natalia told me I still had some magic left .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573724,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "From 1990 to 2000 , the share of business fixed investment devoted to information equipment and software rose from less than 28 percent to 39 percent .",
+        "hypothesis": "Information equipment became more popular over the course of the '90s .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573725,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "From 1990 to 2000 , the share of business fixed investment devoted to information equipment and software rose from less than 28 percent to 39 percent .",
+        "hypothesis": "Information equipment did not become more popular over the course of the '90s .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573726,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "At the time of our response to this agency , GSA required the traveler to obtain receipts for all expenses individually costing $ 75 or more .",
+        "hypothesis": "The travelers need receipts for all expenses .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573727,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "At the time of our response to this agency , GSA required the traveler to obtain receipts for all expenses individually costing $ 75 or more .",
+        "hypothesis": "The travelers do not need receipts for all expenses .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573728,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "After all , he twice declined opportunities to run for office in the '70s , when he was a much more credible candidate than he is now .",
+        "hypothesis": "He was a much more credible candidate when he refused to run for office in the 1970 's .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573729,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "After all , he twice declined opportunities to run for office in the '70s , when he was a much more credible candidate than he is now .",
+        "hypothesis": "He was not a much more credible candidate when he refused to run for office in the 1970 's .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573730,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The main route follows the coastline , circumventing the mountains and leading to some of the least-visited areas of Jamaica that are totally off the tourist track .",
+        "hypothesis": "Going to some of the less visited areas of Jamaica involves going through the mountains and avoiding the main route .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573731,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The main route follows the coastline , circumventing the mountains and leading to some of the least-visited areas of Jamaica that are totally off the tourist track .",
+        "hypothesis": "Going to some of the less visited areas of Jamaica does not involve going through the mountains and avoiding the main route .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573732,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "FEMA concluded that all emergencies share certain common traits , pose some common demands , and ought to be approached functionally .",
+        "hypothesis": "FEMA did not say all emergencies are similar in some ways .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573733,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "FEMA concluded that all emergencies share certain common traits , pose some common demands , and ought to be approached functionally .",
+        "hypothesis": "FEMA said all emergencies are similar in some ways .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573734,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "all taken up yeah",
+        "hypothesis": "There are still some left .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573735,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "all taken up yeah",
+        "hypothesis": "There are not still some left .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573736,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "At just 5 km -LRB- 3 miles -RRB- in length it is more manageable than some of the larger lakes .",
+        "hypothesis": "There are not some lakes that are less manageable .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573737,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "At just 5 km -LRB- 3 miles -RRB- in length it is more manageable than some of the larger lakes .",
+        "hypothesis": "There are some lakes that are less manageable .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573738,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Revamping the Musee du Louvre since the 1980s has made this formidable palace of art far more accessible , in all senses .",
+        "hypothesis": "This formidable palace of art has not become far more accesible , in all senses , since the revamping of Musee du Louvre since the 1980s .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573739,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Revamping the Musee du Louvre since the 1980s has made this formidable palace of art far more accessible , in all senses .",
+        "hypothesis": "This formidable palace of art has become far more accesible , in all senses , since the revamping of Musee du Louvre since the 1980s .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573740,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The president -- and this has been especially true of Clinton -- frequently nominates the least offensive nominee rather than the most qualified in order to pacify the Senate .",
+        "hypothesis": "Clinton and other presidents tend to pick the least offensive nominee instead of the best-qualified one .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573741,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The president -- and this has been especially true of Clinton -- frequently nominates the least offensive nominee rather than the most qualified in order to pacify the Senate .",
+        "hypothesis": "Clinton and other presidents do not tend to pick the least offensive nominee instead of the best-qualified one .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573742,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "There 's still some life in St-Germain-des-Pres and the Latin Quarter , especially in university term time making local friends is the best way to find it .",
+        "hypothesis": "The Latin Quarter is not empty and lifeless all year long .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573743,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "There 's still some life in St-Germain-des-Pres and the Latin Quarter , especially in university term time making local friends is the best way to find it .",
+        "hypothesis": "The Latin Quarter is empty and lifeless all year long .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573744,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The graveyard has some extremely ornate and fascinating tombs , replete with skulls and croseones and other symbols of death .",
+        "hypothesis": "The tombs are all plain , as was the custom for that time .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573745,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The graveyard has some extremely ornate and fascinating tombs , replete with skulls and croseones and other symbols of death .",
+        "hypothesis": "The tombs are not all plain , as was the custom for that time .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573746,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "These were all fashioned out of natural materials by local and international sculptors .",
+        "hypothesis": "Local sculptors made some of these using natural materials .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573747,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "These were all fashioned out of natural materials by local and international sculptors .",
+        "hypothesis": "Local sculptors did not make some of these using natural materials .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573748,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "LC mail is the most profitable mail and the mail to which First-Class domestic postage rates are most likely to be applicable in the future .",
+        "hypothesis": "LC mail makes the least money for the postal service .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573749,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "LC mail is the most profitable mail and the mail to which First-Class domestic postage rates are most likely to be applicable in the future .",
+        "hypothesis": "LC mail does not make the least money for the postal service .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573750,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "In other words , the F-22 is requiring significantly more maintenance actions than planned .",
+        "hypothesis": "The F-22 does not need less maintenance than anticipated .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573751,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "In other words , the F-22 is requiring significantly more maintenance actions than planned .",
+        "hypothesis": "The F-22 needs less maintenance than anticipated .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573752,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The lotteries ' pitiful payout -- about half of all money wagered , compared with 92 percent or so at your average casino -- rightly draws cries of outrage .",
+        "hypothesis": "The lottery has a larger payout than most casinos .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573753,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The lotteries ' pitiful payout -- about half of all money wagered , compared with 92 percent or so at your average casino -- rightly draws cries of outrage .",
+        "hypothesis": "The lottery has not a larger payout than most casinos .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573754,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Some 40 percent of Malaysians live in townships of more than 5,000 inhabitants , an exceptional proportion for the region .",
+        "hypothesis": "40 percent of Malaysians do not live in large townships of 5,000 inhabitants or more .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573755,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Some 40 percent of Malaysians live in townships of more than 5,000 inhabitants , an exceptional proportion for the region .",
+        "hypothesis": "40 percent of Malaysians live in large townships of 5,000 inhabitants or more .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573756,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "It now owns a number of important areas in the Lakes and many hundreds of historic sites all over the UK .",
+        "hypothesis": "It owns both historic sites in the UK and some important areas in the Lakes .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573757,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "It now owns a number of important areas in the Lakes and many hundreds of historic sites all over the UK .",
+        "hypothesis": "It does not own both historic sites in the UK and some important areas in the Lakes .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573758,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "At that Flytrap moment , Ken Starr had won 11 legal victories and lost none .",
+        "hypothesis": "Ken Starr did not lose all 11 of his legal cases .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573759,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "At that Flytrap moment , Ken Starr had won 11 legal victories and lost none .",
+        "hypothesis": "Ken Starr lost all 11 of his legal cases .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573760,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "yeah it is it 's very good i think TV has really had some bad effects on all of us",
+        "hypothesis": "I believe TV has had some bad effects on everyone .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573761,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "yeah it is it 's very good i think TV has really had some bad effects on all of us",
+        "hypothesis": "I do not believe TV has had some bad effects on everyone .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573762,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "On smaller , more remote islands , ferries form the only transportation link with the outside world .",
+        "hypothesis": "The only link with the outside world on some of the smaller islands are not ferries .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573763,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "On smaller , more remote islands , ferries form the only transportation link with the outside world .",
+        "hypothesis": "The only link with the outside world on some of the smaller islands are ferries .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573764,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Sells some to th ' army , drives more clear to Californy .",
+        "hypothesis": "Some was sold to the army , some was not sent all the way to California .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573765,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Sells some to th ' army , drives more clear to Californy .",
+        "hypothesis": "Some was sold to the army , some was sent all the way to California .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573766,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "It ultimately chose what it believed to be the least costly and least burdensome alternative .",
+        "hypothesis": "In the end , it chose the most expensive choice .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573767,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "It ultimately chose what it believed to be the least costly and least burdensome alternative .",
+        "hypothesis": "In the end , it did not choose the most expensive choice .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573768,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "For some easy hiking , stop off at the lower station of Plan de l'Aiguille -LRB- 2,310 m/7 ,580 ft -RRB- .",
+        "hypothesis": "The lower station of Plan de l'Aiguille opens up to one of the world 's most treacherous hiking trails .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573769,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "For some easy hiking , stop off at the lower station of Plan de l'Aiguille -LRB- 2,310 m/7 ,580 ft -RRB- .",
+        "hypothesis": "The lower station of Plan de l'Aiguille does not open up to one of the world 's most treacherous hiking trails .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573770,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "More than one-third of Americans work at least 50 hours per week .",
+        "hypothesis": "More than one third of Americans work 50 hours a week or more .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573771,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "As Scandinavians and Bavarians cycle by , 1968 seems as remote as when the first cattle-herders came here from the other side of India some 3,500 years ago .",
+        "hypothesis": "1968 seems as long ago as the time when cattle-herders first arrived here more than 3 millennia ago .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573772,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "As Scandinavians and Bavarians cycle by , 1968 seems as remote as when the first cattle-herders came here from the other side of India some 3,500 years ago .",
+        "hypothesis": "1968 does not seem as long ago as the time when cattle-herders first arrived here more than 3 millennia ago .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573773,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Signs direct you to these great waterfalls , which are among Guadeloupe 's finest , if least visited , scenic attractions .",
+        "hypothesis": "Guadeloupe 's most underrated attractions are not it 's great waterfalls , which you can find by following the signs .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573774,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Signs direct you to these great waterfalls , which are among Guadeloupe 's finest , if least visited , scenic attractions .",
+        "hypothesis": "Guadeloupe 's most underrated attractions are it 's great waterfalls , which you can find by following the signs .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573775,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "By official count , the building contains 43 altars , 86 stairways , more than 1,200 doors , and 2,600 windows .",
+        "hypothesis": "The building has not more than two thousand windows .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573776,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "By official count , the building contains 43 altars , 86 stairways , more than 1,200 doors , and 2,600 windows .",
+        "hypothesis": "The building has more than two thousand windows .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573777,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Back then , the Disability Law Center , Legal Aid Society and Utah Legal Services combined received less than $ 75,000 in donations from lawyers and other legal professionals .",
+        "hypothesis": "There was not more than $ 100,000 given by law professionals to the various agencies .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573778,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Back then , the Disability Law Center , Legal Aid Society and Utah Legal Services combined received less than $ 75,000 in donations from lawyers and other legal professionals .",
+        "hypothesis": "There was more than $ 100,000 given by law professionals to the various agencies .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573779,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The town once had a population of 350,000 and some 100 churches .",
+        "hypothesis": "The town never had not more than 200,000 population .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573780,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The town once had a population of 350,000 and some 100 churches .",
+        "hypothesis": "The town never had more than 200,000 population .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573781,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "People who are most in need of a lawyer 's help in Clay County often are the ones who can least afford it .",
+        "hypothesis": "The ones who can least afford a lawyer in Clay County are not the people who needed the most .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573782,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "People who are most in need of a lawyer 's help in Clay County often are the ones who can least afford it .",
+        "hypothesis": "The ones who can least afford a lawyer in Clay County are the people who needed the most .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573783,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The most established town is Hurghada whose small offshore islands sit among some of the best diving waters in the world .",
+        "hypothesis": "The offshore islands of Hurghada are surrounded by some of the world 's greatest diving waters .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573784,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The most established town is Hurghada whose small offshore islands sit among some of the best diving waters in the world .",
+        "hypothesis": "The offshore islands of Hurghada are not surrounded by some of the world 's greatest diving waters .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573785,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "yeah yeah every year uh there 's some freeze damage and i lose different uh variety of shrubs",
+        "hypothesis": "I retain all my shrubs each year .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573786,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "yeah yeah every year uh there 's some freeze damage and i lose different uh variety of shrubs",
+        "hypothesis": "I do not retain all my shrubs each year .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573787,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "yeah i think they should all wear signs you know or something",
+        "hypothesis": "I do not think they should all put some signs on themselves .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573788,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "yeah i think they should all wear signs you know or something",
+        "hypothesis": "I think they should all put some signs on themselves .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573789,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "In its new report , the Commission on Access to Justice notes some significant steps toward providing equal access to justice for all Californians .",
+        "hypothesis": "There has been no progress in California towards giving equal access to justice to all residents .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573790,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "In its new report , the Commission on Access to Justice notes some significant steps toward providing equal access to justice for all Californians .",
+        "hypothesis": "There has not been no progress in California towards giving equal access to justice to all residents .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573791,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "We have observed that many more clients receive some assistance when technologically sophisticated intake systems are installed .",
+        "hypothesis": "More technologically advanced intake systems lead to more clients receiving assistance .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573792,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "We have observed that many more clients receive some assistance when technologically sophisticated intake systems are installed .",
+        "hypothesis": "More technologically advanced intake systems do not lead to more clients receiving assistance .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573793,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "People who are most in need of a lawyer 's help in Clay County often are the ones who can least afford it .",
+        "hypothesis": "The people who need lawyers the most are not the people who can afford it .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573794,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "People who are most in need of a lawyer 's help in Clay County often are the ones who can least afford it .",
+        "hypothesis": "The people who need lawyers the most are the people who can afford it .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573795,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "As it is , advocates say the 110,000 Marylanders they reach probably are no more than 20 percent of those in need .",
+        "hypothesis": "Advocates say that they reach all of the Marylanders who are in need .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573796,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "oh i guess all the factors that drive one to do that are appearance or general health or some some need for reduction of weight or whatever",
+        "hypothesis": "I do not guess all the factors that make someone do that is their appearance or health .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573797,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "oh i guess all the factors that drive one to do that are appearance or general health or some some need for reduction of weight or whatever",
+        "hypothesis": "I guess all the factors that make someone do that is their appearance or health .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573798,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "I had seen very little of him for some years .",
+        "hypothesis": "I did not see him all the time .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573799,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "I had seen very little of him for some years .",
+        "hypothesis": "I saw him all the time .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573800,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The trend was more pronounced in 2015 .",
+        "hypothesis": "The trend was not less pronounced in 2015 .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573801,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The trend was more pronounced in 2015 .",
+        "hypothesis": "The trend was less pronounced in 2015 .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573802,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Of its numerous period sculptures , the most celebrated is a 5-m -LRB- 16.5-ft -RRB- thousand-armed Kannon statue .",
+        "hypothesis": "The least praised and worshiped statue is the thousand-armed Kannon statue .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573803,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Of its numerous period sculptures , the most celebrated is a 5-m -LRB- 16.5-ft -RRB- thousand-armed Kannon statue .",
+        "hypothesis": "The least praised and worshiped statue is not the thousand-armed Kannon statue .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573804,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "8 billion less than the value of the scale benefit from delivery .",
+        "hypothesis": "It is worth much more than the stated value",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573805,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "8 billion less than the value of the scale benefit from delivery .",
+        "hypothesis": "It is not worth much more than the stated value",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573806,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "wow oh yeah definitely if it 's a limited edition usually no matter what it is if it 's a limited edition it 's usually worth something later on",
+        "hypothesis": "Usually , a limited edition of anything has not some value later .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573807,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "wow oh yeah definitely if it 's a limited edition usually no matter what it is if it 's a limited edition it 's usually worth something later on",
+        "hypothesis": "Usually , a limited edition of anything has some value later .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573808,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Giorgio de Chirico and Eduardo de Pisis are among the more important 20th-century painters exhibited .",
+        "hypothesis": "Giorgio de Chirico and Eduardo de Pisis are the least important artists in the gallery .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573809,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Giorgio de Chirico and Eduardo de Pisis are among the more important 20th-century painters exhibited .",
+        "hypothesis": "Giorgio de Chirico and Eduardo de Pisis are not the least important artists in the gallery .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573810,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "For women of all ages and men older than age 65 , more than 7 drinks/week or more than 3 drinks/occasion is considered at risk .",
+        "hypothesis": "Drinking more than 2 drinks a week is not problematic behavior .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573811,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "For women of all ages and men older than age 65 , more than 7 drinks/week or more than 3 drinks/occasion is considered at risk .",
+        "hypothesis": "Drinking more than 2 drinks a week is problematic behavior .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573812,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "3 . While media attention has focused on budget surpluses projected for the next 10 years , the long-term outlook for federal government saving has received considerably less attention .",
+        "hypothesis": "Federal government saving projections are not the most popular subject in the media .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573813,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "3 . While media attention has focused on budget surpluses projected for the next 10 years , the long-term outlook for federal government saving has received considerably less attention .",
+        "hypothesis": "Federal government saving projections are the most popular subject in the media .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573814,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "In its new report , the Commission on Access to Justice notes some significant steps toward providing equal access to justice for all Californians .",
+        "hypothesis": "The Commission on Access to Justice reported steps taken towards equal access to justice for all California residents .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573815,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "In its new report , the Commission on Access to Justice notes some significant steps toward providing equal access to justice for all Californians .",
+        "hypothesis": "The Commission on Access to Justice did not report steps taken towards equal access to justice for all California residents .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573816,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Hispanic Americans comprise the largest ethnic group of all , with numbers fast approaching 40 percent of the population .",
+        "hypothesis": "The ethnic group with the most populace is not South East Asians .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573817,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Hispanic Americans comprise the largest ethnic group of all , with numbers fast approaching 40 percent of the population .",
+        "hypothesis": "The ethnic group with the most populace is South East Asians .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573818,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The reconstruction plan warily lowered the profile by more than 10 percent .",
+        "hypothesis": "The profile was not lowered by more than 10 percent because of the reconstruction plan .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573819,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "The reconstruction plan warily lowered the profile by more than 10 percent .",
+        "hypothesis": "The profile was lowered by more than 10 percent because of the reconstruction plan .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573820,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "In the 1920s , Montparnasse took over from Montmartre as the stomping grounds of the capital 's artistic colony , or at least of its avant-garde .",
+        "hypothesis": "Montparnasse became more popular with artists in the 1920s .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573821,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "In the 1920s , Montparnasse took over from Montmartre as the stomping grounds of the capital 's artistic colony , or at least of its avant-garde .",
+        "hypothesis": "Montparnasse did not become more popular with artists in the 1920s .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573822,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Today Saint-Pierre is a little town of some 6,500 people .",
+        "hypothesis": "Saint-Pierre is bustling with more than a million people .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573823,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Today Saint-Pierre is a little town of some 6,500 people .",
+        "hypothesis": "Saint-Pierre is not bustling with more than a million people .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573824,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "In all such relationships you are replaceable at some price .",
+        "hypothesis": "You are expendable in return for some price in relationships .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573825,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "In all such relationships you are replaceable at some price .",
+        "hypothesis": "You are not expendable in return for some price in relationships .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573826,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Portugal 's capital city is the country 's largest , with a population of more than 2 million .",
+        "hypothesis": "Portugal 's capital has not more than 2 million residents .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573827,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Portugal 's capital city is the country 's largest , with a population of more than 2 million .",
+        "hypothesis": "Portugal 's capital has more than 2 million residents .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573828,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Only children who suffer the most severe deprivation are permanently damaged .",
+        "hypothesis": "Only kids who are the least deprived are not damaged permanently .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573829,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Only children who suffer the most severe deprivation are permanently damaged .",
+        "hypothesis": "Only kids who are the least deprived are damaged permanently .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573830,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The canals more than 1,300 miles of them crisscross the island have level footpaths running along their entire length .",
+        "hypothesis": "The island has not a totally arid terrain , with no traces of flowing water .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573831,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "The canals more than 1,300 miles of them crisscross the island have level footpaths running along their entire length .",
+        "hypothesis": "The island has a totally arid terrain , with no traces of flowing water .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573832,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "In a poll of 773 chief executives in 23 countries , consultants Watson Wyatt Worldwide found that most think productivity peaks around age 43 .",
+        "hypothesis": "A poll of chief executives did not conclude that 45 years old was the least productive age .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573833,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "In a poll of 773 chief executives in 23 countries , consultants Watson Wyatt Worldwide found that most think productivity peaks around age 43 .",
+        "hypothesis": "A poll of chief executives concluded that 45 years old was the least productive age .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573834,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "5 In addition , typical MEL absorber units need less steel due to the use of smaller absorbers enabled by shorter residence time requirements than for LFSO systems .",
+        "hypothesis": "Less steel is required by the more common MEL absorber units .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573835,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "5 In addition , typical MEL absorber units need less steel due to the use of smaller absorbers enabled by shorter residence time requirements than for LFSO systems .",
+        "hypothesis": "Less steel is not required by the more common MEL absorber units .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573836,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "Whatever the latest theory , the Pyramids of Giza -LRB- the most well-known -RRB- are , without doubt , an amazing sight as you stand before them .",
+        "hypothesis": "The Pyramids of Giza are not the least well-known pyramids in the world .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573837,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "Whatever the latest theory , the Pyramids of Giza -LRB- the most well-known -RRB- are , without doubt , an amazing sight as you stand before them .",
+        "hypothesis": "The Pyramids of Giza are the least well-known pyramids in the world .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573838,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "There is some evidence28 that people will pay more to reduce involuntarily incurred risks than risks incurred voluntarily .",
+        "hypothesis": "People are more willing to pay to reduce voluntary risk .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573839,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "There is some evidence28 that people will pay more to reduce involuntarily incurred risks than risks incurred voluntarily .",
+        "hypothesis": "People are not more willing to pay to reduce voluntary risk .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573840,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "It all had something to do with some kind of mumbo-jumbo , and ...",
+        "hypothesis": "It was all about mumbo jumbo .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573841,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "It all had something to do with some kind of mumbo-jumbo , and ...",
+        "hypothesis": "It was not all about mumbo jumbo .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573842,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "But unfortunately , we have to sit and wait for studies that are underway to finish before we can predict the future with something more statistically powerful than hope .",
+        "hypothesis": "The studies are not all done .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573843,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": true,
+        "context": "He was obviously more intelligent than most , and better at conserving himself .",
+        "hypothesis": "He was not one of the least intelligent in the group .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573844,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    },
+    {
+        "binary-label": false,
+        "context": "He was obviously more intelligent than most , and better at conserving himself .",
+        "hypothesis": "He was one of the least intelligent in the group .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573845,
+        "split": "dev",
+        "type-of-inference": "nli-quantification"
+    }
+]

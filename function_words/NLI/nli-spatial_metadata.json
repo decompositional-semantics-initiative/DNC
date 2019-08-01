@@ -1,0 +1,2200 @@
+[
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "19755c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 25
+        },
+        "pair-id": 573846
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "19755c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 25
+        },
+        "pair-id": 573847
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "85480c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 2428
+        },
+        "pair-id": 573848
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "85480c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 2428
+        },
+        "pair-id": 573849
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "122526c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 818
+        },
+        "pair-id": 573850
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "122526c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,neutral,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 818
+        },
+        "pair-id": 573851
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "57070c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 816
+        },
+        "pair-id": 573852
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "57070c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 816
+        },
+        "pair-id": 573853
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "12224c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 3152
+        },
+        "pair-id": 573854
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "12224c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 3152
+        },
+        "pair-id": 573855
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "130357c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 2674
+        },
+        "pair-id": 573856
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "130357c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 2674
+        },
+        "pair-id": 573857
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "117733e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1682
+        },
+        "pair-id": 573858
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "117733e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1682
+        },
+        "pair-id": 573859
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "50149e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1333
+        },
+        "pair-id": 573860
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "50149e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1333
+        },
+        "pair-id": 573861
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "34883e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 1429
+        },
+        "pair-id": 573862
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "34883e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 1429
+        },
+        "pair-id": 573863
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "117073c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,neutral,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 2395
+        },
+        "pair-id": 573864
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "117073c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 2395
+        },
+        "pair-id": 573865
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "50380e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 8
+        },
+        "pair-id": 573866
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "50380e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 8
+        },
+        "pair-id": 573867
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "71435c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_near_far",
+            "tuple_id": 1549
+        },
+        "pair-id": 573868
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "71435c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_near_far",
+            "tuple_id": 1549
+        },
+        "pair-id": 573869
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "19273c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 3037
+        },
+        "pair-id": 573870
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "19273c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 3037
+        },
+        "pair-id": 573871
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "1100c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 2018
+        },
+        "pair-id": 573872
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "1100c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 2018
+        },
+        "pair-id": 573873
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "26013c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 639
+        },
+        "pair-id": 573874
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "26013c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 639
+        },
+        "pair-id": 573875
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "124580c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 879
+        },
+        "pair-id": 573876
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "124580c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 879
+        },
+        "pair-id": 573877
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "46356c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 1073
+        },
+        "pair-id": 573878
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "46356c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 1073
+        },
+        "pair-id": 573879
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "89123c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2160
+        },
+        "pair-id": 573880
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "89123c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,neutral,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2160
+        },
+        "pair-id": 573881
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "7854c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 500
+        },
+        "pair-id": 573882
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "7854c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 500
+        },
+        "pair-id": 573883
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "141631c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1983
+        },
+        "pair-id": 573884
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "141631c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1983
+        },
+        "pair-id": 573885
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "119045e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,neutral,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 1686
+        },
+        "pair-id": 573886
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "119045e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 1686
+        },
+        "pair-id": 573887
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "91326e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 3197
+        },
+        "pair-id": 573888
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "91326e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 3197
+        },
+        "pair-id": 573889
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "39167c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 2882
+        },
+        "pair-id": 573890
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "48476c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,neutral,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2967
+        },
+        "pair-id": 573891
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "48476c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2967
+        },
+        "pair-id": 573892
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "28717e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 2697
+        },
+        "pair-id": 573893
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "28717e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 2697
+        },
+        "pair-id": 573894
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "38184c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 824
+        },
+        "pair-id": 573895
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "38184c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,neutral,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 824
+        },
+        "pair-id": 573896
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "103077c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 1174
+        },
+        "pair-id": 573897
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "103077c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 1174
+        },
+        "pair-id": 573898
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "39167c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 1263
+        },
+        "pair-id": 573899
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "110653e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1681
+        },
+        "pair-id": 573900
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "17399c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2262
+        },
+        "pair-id": 573901
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "60417c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 171
+        },
+        "pair-id": 573902
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "60417c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 171
+        },
+        "pair-id": 573903
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "136222c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2447
+        },
+        "pair-id": 573904
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "136222c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2447
+        },
+        "pair-id": 573905
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "69273c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 169
+        },
+        "pair-id": 573906
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "69273c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 169
+        },
+        "pair-id": 573907
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "94856c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 1355
+        },
+        "pair-id": 573908
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "94856c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 1355
+        },
+        "pair-id": 573909
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "99575c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 269
+        },
+        "pair-id": 573910
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "99575c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 269
+        },
+        "pair-id": 573911
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "74213c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2605
+        },
+        "pair-id": 573912
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "74213c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2605
+        },
+        "pair-id": 573913
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "144129c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 1899
+        },
+        "pair-id": 573914
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "144129c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 1899
+        },
+        "pair-id": 573915
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "31864c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,neutral,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 2948
+        },
+        "pair-id": 573916
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "43472e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_near_far",
+            "tuple_id": 2519
+        },
+        "pair-id": 573917
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "43472e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_near_far",
+            "tuple_id": 2519
+        },
+        "pair-id": 573918
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "78724e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 2738
+        },
+        "pair-id": 573919
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "78724e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 2738
+        },
+        "pair-id": 573920
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "72442c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 1089
+        },
+        "pair-id": 573921
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "72442c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 1089
+        },
+        "pair-id": 573922
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "116839c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 1343
+        },
+        "pair-id": 573923
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "116839c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,neutral,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 1343
+        },
+        "pair-id": 573924
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "48387c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 2720
+        },
+        "pair-id": 573925
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "48387c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 2720
+        },
+        "pair-id": 573926
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "27568c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 2017
+        },
+        "pair-id": 573927
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "27568c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 2017
+        },
+        "pair-id": 573928
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "9308c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 1580
+        },
+        "pair-id": 573929
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "9308c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 1580
+        },
+        "pair-id": 573930
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "34249c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 2285
+        },
+        "pair-id": 573931
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "34249c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 2285
+        },
+        "pair-id": 573932
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "113164e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2581
+        },
+        "pair-id": 573933
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "113164e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2581
+        },
+        "pair-id": 573934
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "109480c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 1420
+        },
+        "pair-id": 573935
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "109480c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 1420
+        },
+        "pair-id": 573936
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "124868c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 1078
+        },
+        "pair-id": 573937
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "100818c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 1954
+        },
+        "pair-id": 573938
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "100818c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 1954
+        },
+        "pair-id": 573939
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "133996e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 971
+        },
+        "pair-id": 573940
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "133996e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,neutral,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 971
+        },
+        "pair-id": 573941
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "8901c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,neutral,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 229
+        },
+        "pair-id": 573942
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "8901c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 229
+        },
+        "pair-id": 573943
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "102230e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 3231
+        },
+        "pair-id": 573944
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "102230e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 3231
+        },
+        "pair-id": 573945
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "134880e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 2200
+        },
+        "pair-id": 573946
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "134880e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 2200
+        },
+        "pair-id": 573947
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "140184c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_near_far",
+            "tuple_id": 577
+        },
+        "pair-id": 573948
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "140184c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_near_far",
+            "tuple_id": 577
+        },
+        "pair-id": 573949
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "25277c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 356
+        },
+        "pair-id": 573950
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "25277c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 356
+        },
+        "pair-id": 573951
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "17293c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 1202
+        },
+        "pair-id": 573952
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "17293c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 1202
+        },
+        "pair-id": 573953
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "131200c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_near_far",
+            "tuple_id": 2692
+        },
+        "pair-id": 573954
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "131200c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_near_far",
+            "tuple_id": 2692
+        },
+        "pair-id": 573955
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "1003c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 679
+        },
+        "pair-id": 573956
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "1003c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 679
+        },
+        "pair-id": 573957
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "98675c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1105
+        },
+        "pair-id": 573958
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "98675c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1105
+        },
+        "pair-id": 573959
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "110653c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 599
+        },
+        "pair-id": 573960
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "110653c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 599
+        },
+        "pair-id": 573961
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "34654e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 1552
+        },
+        "pair-id": 573962
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "34654e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 1552
+        },
+        "pair-id": 573963
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "129395e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2458
+        },
+        "pair-id": 573964
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "129395e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,neutral,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2458
+        },
+        "pair-id": 573965
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "139005c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 272
+        },
+        "pair-id": 573966
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "139005c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 272
+        },
+        "pair-id": 573967
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "136552e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 399
+        },
+        "pair-id": 573968
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "136552e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_close_far",
+            "tuple_id": 399
+        },
+        "pair-id": 573969
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "40995c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,neutral,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 3063
+        },
+        "pair-id": 573970
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "40995c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 3063
+        },
+        "pair-id": 573971
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "69130c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 2703
+        },
+        "pair-id": 573972
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "69130c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 2703
+        },
+        "pair-id": 573973
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "132004e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 1350
+        },
+        "pair-id": 573974
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "132004e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_over_under",
+            "tuple_id": 1350
+        },
+        "pair-id": 573975
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "142934e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 2161
+        },
+        "pair-id": 573976
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "142934e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 2161
+        },
+        "pair-id": 573977
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "23861e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1752
+        },
+        "pair-id": 573978
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "23861e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1752
+        },
+        "pair-id": 573979
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "25808c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2610
+        },
+        "pair-id": 573980
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "25808c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 2610
+        },
+        "pair-id": 573981
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "118836c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 480
+        },
+        "pair-id": 573982
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "118836c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 480
+        },
+        "pair-id": 573983
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "57689e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1570
+        },
+        "pair-id": 573984
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "57689e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1570
+        },
+        "pair-id": 573985
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "17587c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 3211
+        },
+        "pair-id": 573986
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "17587c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 3211
+        },
+        "pair-id": 573987
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "110653e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_up_down",
+            "tuple_id": 1452
+        },
+        "pair-id": 573988
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "67036c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 2261
+        },
+        "pair-id": 573989
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "67036c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_above_below",
+            "tuple_id": 2261
+        },
+        "pair-id": 573990
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "83744c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 1103
+        },
+        "pair-id": 573991
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "83744c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,neutral,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 1103
+        },
+        "pair-id": 573992
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "119393c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 1533
+        },
+        "pair-id": 573993
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "119393c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 1533
+        },
+        "pair-id": 573994
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "24322e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 611
+        },
+        "pair-id": 573995
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "24322e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,neutral,neutral",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 611
+        },
+        "pair-id": 573996
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "74285e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 143
+        },
+        "pair-id": 573997
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "74285e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "neutral,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 143
+        },
+        "pair-id": 573998
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "40422c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 2094
+        },
+        "pair-id": 573999
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "40422c",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_left_right",
+            "tuple_id": 2094
+        },
+        "pair-id": 574000
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "17194e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "contradiction,contradiction,contradiction",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 1076
+        },
+        "pair-id": 574001
+    },
+    {
+        "corpus": "MNLI",
+        "corpus-license": "Multiple: see section 2.2 (page 5) of https://www.nyu.edu/projects/bowman/multinli/paper.pdf for details",
+        "corpus-sent-id": "17194e",
+        "creation-approach": "crowdsource",
+        "misc": {
+            "assigned_labels": "entailment,entailment,entailment",
+            "category": "grounded",
+            "mnli_split": "multinli_1.0_train.jsonl",
+            "task_desc": "spatial_behind_front",
+            "tuple_id": 1076
+        },
+        "pair-id": 574002
+    }
+]

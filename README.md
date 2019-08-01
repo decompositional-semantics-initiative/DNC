@@ -8,6 +8,8 @@ There are three subdirectories, one for each part of the data split: `train`, `d
 
 Each subdirectory contains 2 json files for each recast dataset: one data file and one metadata file (except for the recast relation extraction which does not have a metadata file).
 
+The directory [function_words](https://github.com/decompositional-semantics-initiative/DNC/tree/master/function_words) contains the data associated and released as part of [*Probing What Different NLP Tasks Teach Machines about Function Word Comprehension*](https://www.aclweb.org/anthology/S19-1026) (Kim et al. StarSem 2019).
+
 ## Structure of json files:
 
 #### Data files:
@@ -58,7 +60,7 @@ If you find any issues in the DNC, please create an issue on this repo. If you f
 
 ## Bibligoraphy
 
-If you make use of our dataset or the models released here, please cite us using the following citation:
+If you make use of our dataset or the models released here, please cite us using the following citations:
 
 ```
 @inproceedings{poliak2018emnlp-DNC,
@@ -66,6 +68,19 @@ If you make use of our dataset or the models released here, please cite us using
   author = {Poliak, Adam and Haldar, Aparajita and Rudinger, Rachel and Hu, J. Edward and Pavlick, Ellie and White, Aaron Steven and {Van Durme}, Benjamin},
   booktitle = {Empirical Methods in Natural Language Processing (EMNLP)},
   year = {2018}
+}
+
+@inproceedings{kim-etal-2019-probing,
+    title = "Probing What Different {NLP} Tasks Teach Machines about Function Word Comprehension",
+    author = "Kim, Najoung  and Patel, Roma  and Poliak, Adam  and Xia, Patrick  and Wang, Alex  and McCoy, Tom  and 
+      Tenney, Ian  and Ross, Alexis  and Linzen, Tal  and Van Durme, Benjamin  and Bowman, Samuel R.  and Pavlick, Ellie",
+    booktitle = "Proceedings of the Eighth Joint Conference on Lexical and Computational Semantics (*{SEM} 2019)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/S19-1026",
+    pages = "235--249",
 }
 ```
 

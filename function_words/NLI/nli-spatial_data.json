@@ -1,0 +1,2200 @@
+[
+    {
+        "binary-label": true,
+        "context": "White and I met down in the basement , over a game of chess .",
+        "hypothesis": "We did not end up getting together on the back patio .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573846,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "White and I met down in the basement , over a game of chess .",
+        "hypothesis": "We ended up getting together on the back patio .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573847,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "It is said that the artist 's agonizing self-portrait can be made out in the flayed skin of St. Bartholomew , to the right below Jesus .",
+        "hypothesis": "St. Bartholomew is not shown on the left , above Jesus .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573848,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "It is said that the artist 's agonizing self-portrait can be made out in the flayed skin of St. Bartholomew , to the right below Jesus .",
+        "hypothesis": "St. Bartholomew is shown on the left , above Jesus .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573849,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Next to the weaving center , acrosenarrow Ramsey Street , are the Outlook Tower and its camera obscura , set high above the tenement chimneystacks .",
+        "hypothesis": "The Outlook Tower is located below the weaving center .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573850,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Next to the weaving center , acrosenarrow Ramsey Street , are the Outlook Tower and its camera obscura , set high above the tenement chimneystacks .",
+        "hypothesis": "The Outlook Tower is not located below the weaving center .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573851,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "yeah course the ozone is up there so",
+        "hypothesis": "The ozone is down there .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573852,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "yeah course the ozone is up there so",
+        "hypothesis": "The ozone is not down there .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573853,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "At the fork , bear left onto Al-Wad -LRB- the valley -RRB- Road .",
+        "hypothesis": "You do not need to turn right into the Al-Wad road .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573854,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "At the fork , bear left onto Al-Wad -LRB- the valley -RRB- Road .",
+        "hypothesis": "You need to turn right into the Al-Wad road .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573855,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The Great Buddha 's right hand is bestowing spiritual tranquillity , while the left symbolizes the granting of wishes .",
+        "hypothesis": "The left hand of the Great Buddha symbolizes the taking away of wishes .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573856,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The Great Buddha 's right hand is bestowing spiritual tranquillity , while the left symbolizes the granting of wishes .",
+        "hypothesis": "The left hand of the Great Buddha does not symbolize the taking away of wishes .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573857,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Steel wells reached down into the Earth , oil barrels lined up beside them .",
+        "hypothesis": "The steel wells went down into the ground .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573858,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Steel wells reached down into the Earth , oil barrels lined up beside them .",
+        "hypothesis": "The steel wells did not go down into the ground .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573859,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "5 A black mule came up beside Drew as he slowly pulled Shiloh down to a canter .",
+        "hypothesis": "The mule did not go up to Drew .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573860,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "5 A black mule came up beside Drew as he slowly pulled Shiloh down to a canter .",
+        "hypothesis": "The mule went up to Drew .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573861,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Finally , in 1936 , a large section of the army under General Francisco Franco rose in revolt against the government .",
+        "hypothesis": "In 1936 a big portion of General Francisco Franco 's army did not come up against the government .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573862,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Finally , in 1936 , a large section of the army under General Francisco Franco rose in revolt against the government .",
+        "hypothesis": "In 1936 a big portion of General Francisco Franco 's army came up against the government .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573863,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "6 million persons in the U.S. were living below poverty level in 1990 , compared to 31 .",
+        "hypothesis": "6 million people are above the poverty line .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573864,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "6 million persons in the U.S. were living below poverty level in 1990 , compared to 31 .",
+        "hypothesis": "6 million people are not above the poverty line .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573865,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Not far from the spa town of Noboribetsu is Shiraoi , a well-reconstructed Ainu village complete with artisans demonstrating traditional arts and crafts .",
+        "hypothesis": "The spa town of Noboribetsu is not located close to Shiraoi .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573866,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Not far from the spa town of Noboribetsu is Shiraoi , a well-reconstructed Ainu village complete with artisans demonstrating traditional arts and crafts .",
+        "hypothesis": "The spa town of Noboribetsu is located close to Shiraoi .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573867,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "On the far side of Arthur 's Seat is Duddingston Loch , which operates as a bird sanctuary .",
+        "hypothesis": "Duddingston Loch is on the near side of Arthur 's Seat .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573868,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "On the far side of Arthur 's Seat is Duddingston Loch , which operates as a bird sanctuary .",
+        "hypothesis": "Duddingston Loch is not on the near side of Arthur 's Seat .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573869,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "yeah they 're very close to the water within like uh a hundred yards",
+        "hypothesis": "The water is not really far away from it .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573870,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "yeah they 're very close to the water within like uh a hundred yards",
+        "hypothesis": "The water is really far away from it .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573871,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The cave monasteries of Udaigiri are close to Bhubaneshwar airport .",
+        "hypothesis": "Udaigiri is not extremely far from the Bhubaneshwar airport .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573872,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The cave monasteries of Udaigiri are close to Bhubaneshwar airport .",
+        "hypothesis": "Udaigiri is extremely far from the Bhubaneshwar airport .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573873,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "To reach the entrance , go back up David Street and turn left up a small alleyway .",
+        "hypothesis": "Turn right up the alleyway to get to the entrance .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573874,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "To reach the entrance , go back up David Street and turn left up a small alleyway .",
+        "hypothesis": "do not turn right up the alleyway to get to the entrance .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573875,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Jacob White was standing behind me .",
+        "hypothesis": "Jacob White was in front of me .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573876,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Jacob White was standing behind me .",
+        "hypothesis": "Jacob White was not in front of me .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573877,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "In 2015 , carbon and mercury emissions continue to be 15 % or more above the target .",
+        "hypothesis": "Mercury emissions were not 20 percent below expected levels in 2015 .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573878,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "In 2015 , carbon and mercury emissions continue to be 15 % or more above the target .",
+        "hypothesis": "Mercury emissions were 20 percent below expected levels in 2015 .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573879,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Thorn lay on the ground staring up at a sky he no longer recognized .",
+        "hypothesis": "Thorn stood on the dock looking down at the water .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573880,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Thorn lay on the ground staring up at a sky he no longer recognized .",
+        "hypothesis": "Thorn did not stand on the dock looking down at the water .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573881,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The answer , which Bennett mentions only in passing , is that the teen-age fertility rate is down roughly 13 percent since 1990 .",
+        "hypothesis": "Bennett said the teen pregnancy rate was up a lot .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573882,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The answer , which Bennett mentions only in passing , is that the teen-age fertility rate is down roughly 13 percent since 1990 .",
+        "hypothesis": "Bennett did not say the teen pregnancy rate was up a lot .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573883,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Come on , let 's go up to the loft . ''",
+        "hypothesis": "Let 's do not go down to the basement .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573884,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Come on , let 's go up to the loft . ''",
+        "hypothesis": "Let 's go down to the basement .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573885,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "19 As figure 3.4 shows , gross national saving as a share of GDP remains fairly steady over the next decade under the Save the Social Security Surpluses simulation .",
+        "hypothesis": "The simulation does not show a steady GDP figure over 10 years .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573886,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "19 As figure 3.4 shows , gross national saving as a share of GDP remains fairly steady over the next decade under the Save the Social Security Surpluses simulation .",
+        "hypothesis": "The simulation shows a steady GDP figure over 10 years .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573887,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "oh i see well i was raised on the Texas Gulf Coast in the summers and during the Christmas holidays we 'd go down to our house on the coast",
+        "hypothesis": "I grew up in Texas near the coast .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573888,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "oh i see well i was raised on the Texas Gulf Coast in the summers and during the Christmas holidays we 'd go down to our house on the coast",
+        "hypothesis": "I did not grow up in Texas near the coast .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573889,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The sublime silhouette of Chartres Cathedral , inaugurated around 1200 , is visible from far away , towering above the old town and the surrounding plain .",
+        "hypothesis": "The Chartres Cathedral is not a low , squat structure that can only be seen from up close .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573890,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The road up to Amber takes you through classical Rajasthani landscape , its parched hills embracing Lake Maota , where water buffalo snooze lazily in the sun .",
+        "hypothesis": "The road down to Amber brings you through a modern cityscape , filled with bustling streets and shops .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573891,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The road up to Amber takes you through classical Rajasthani landscape , its parched hills embracing Lake Maota , where water buffalo snooze lazily in the sun .",
+        "hypothesis": "The road down to Amber does not bring you through a modern cityscape , filled with bustling streets and shops .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573892,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The left was using alarmism about nature to raise money , while the right was raising money with alarmism about regulations .",
+        "hypothesis": "Money is not being raised by both the left and the right .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573893,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The left was using alarmism about nature to raise money , while the right was raising money with alarmism about regulations .",
+        "hypothesis": "Money is being raised by both the left and the right .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573894,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "As his son , Ken , wheels him up the concrete ramp and through the doors , Lindsey 's grin says it all .",
+        "hypothesis": "Lindsey is frowning because he just pushed Ken down a flight of stairs .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573895,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "As his son , Ken , wheels him up the concrete ramp and through the doors , Lindsey 's grin says it all .",
+        "hypothesis": "Lindsey is not frowning because he just pushed Ken down a flight of stairs .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573896,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Once dead , he had to settle for this spot in front of the Scuola of San Marco , a clever Venetian solution .",
+        "hypothesis": "He had a spot behind the Scuola of San Marco after he died .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573897,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Once dead , he had to settle for this spot in front of the Scuola of San Marco , a clever Venetian solution .",
+        "hypothesis": "He had not a spot behind the Scuola of San Marco after he died .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573898,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The sublime silhouette of Chartres Cathedral , inaugurated around 1200 , is visible from far away , towering above the old town and the surrounding plain .",
+        "hypothesis": "The Chartres Cathedral is a low , squat structure that can only be seen from up close .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573899,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "His face patched up after a fashion , Drew lay full length on the hay in his old place over Shadow 's stall back at Kells ' stable .",
+        "hypothesis": "Drew did not lay down in his old place above Shadow 's stall in Kells ' stable .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573900,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "You be stayin ' over to th ' Jacks ? Drew glanced up at the haymow from which Callie had just descended .",
+        "hypothesis": "Drew 's head was not down for the whole time .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573901,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Of prime importance is the saint 's tomb to the left of the altar .",
+        "hypothesis": "The tomb of the saint is to the right of the altar .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573902,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Of prime importance is the saint 's tomb to the left of the altar .",
+        "hypothesis": "The tomb of the saint is not to the right of the altar .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573903,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "He sat up stiffly in bed .",
+        "hypothesis": "He did not lay down in the chair .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573904,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "He sat up stiffly in bed .",
+        "hypothesis": "He laid down in the chair .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573905,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "And my reflection ... ... Is behind me .",
+        "hypothesis": "In front of me is not my reflection .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573906,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "And my reflection ... ... Is behind me .",
+        "hypothesis": "In front of me is my reflection .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573907,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "To the left of the entrance are the monks ' bakery and an imposing pigeon loft .",
+        "hypothesis": "The monks ' bakery is on the entrance 's right side .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573908,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "To the left of the entrance are the monks ' bakery and an imposing pigeon loft .",
+        "hypothesis": "The monks ' bakery is not on the entrance 's right side .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573909,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Several of the walks pass through or close to the Malaysian Agriculture Research Development Institute , just a few kilometers from Tahan Rata .",
+        "hypothesis": "Tahan Rata is not very far from the Malaysian Agriculture Research Development Institute .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573910,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Several of the walks pass through or close to the Malaysian Agriculture Research Development Institute , just a few kilometers from Tahan Rata .",
+        "hypothesis": "Tahan Rata is very far from the Malaysian Agriculture Research Development Institute .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573911,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "They went down to the hill . ''",
+        "hypothesis": "The went up the hill .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573912,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "They went down to the hill . ''",
+        "hypothesis": "The did not go up the hill .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573913,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Although they are so close to Kathmandu as almost to be suburbs , the sister cities of Patan and Bhaktapur each have a distinct character and unique attractions .",
+        "hypothesis": "Patan is very far away from the city of Kathmandu .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573914,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Although they are so close to Kathmandu as almost to be suburbs , the sister cities of Patan and Bhaktapur each have a distinct character and unique attractions .",
+        "hypothesis": "Patan is not very far away from the city of Kathmandu .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573915,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "My lovely little box-apartment was located on the other side of the city , behind the metro-lines .",
+        "hypothesis": "I had not a large apartment that was located in front of the White House .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573916,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Not far away , at milepost 21 near the large new town of Tuen Mun , is a Taoist retreat known as Ching Chung Koon .",
+        "hypothesis": "Tuen Mun has a Taoist retreat near it .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573917,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Not far away , at milepost 21 near the large new town of Tuen Mun , is a Taoist retreat known as Ching Chung Koon .",
+        "hypothesis": "Tuen Mun has not a Taoist retreat near it .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573918,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Croseng O'Connell Bridge , there are fine views along the The Custom House is on the right and to the left is the equally splendid Four Courts .",
+        "hypothesis": "On the left there are not splendid views of the Four Courts .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573919,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Croseng O'Connell Bridge , there are fine views along the The Custom House is on the right and to the left is the equally splendid Four Courts .",
+        "hypothesis": "On the left there are splendid views of the Four Courts .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573920,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Directly above the tomb in the same building is the Coenaculum -LRB- dining room -RRB- .",
+        "hypothesis": "The Coenaculum was not built two floors below the tomb .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573921,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Directly above the tomb in the same building is the Coenaculum -LRB- dining room -RRB- .",
+        "hypothesis": "The Coenaculum was built two floors below the tomb .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573922,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "In his left hand he held a long dagger with a U shaped handguard meant to trap an oncoming blade .",
+        "hypothesis": "His right hand was holding a dagger that he would use to attack any oncoming fighters .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573923,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "In his left hand he held a long dagger with a U shaped handguard meant to trap an oncoming blade .",
+        "hypothesis": "His right hand was not holding a dagger that he would use to attack any oncoming fighters .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573924,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "yeah it looks like it 's come close to that as it is",
+        "hypothesis": "It looks far from that .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573925,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "yeah it looks like it 's come close to that as it is",
+        "hypothesis": "It does not look far from that .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573926,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The IRFA explained that it defined small business as any firm having 10-49 employees rather than the under 500 employee criteria used by the SBA .",
+        "hypothesis": "Small businesses are not businesses that have over 500 employees , according to the SBA .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573927,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The IRFA explained that it defined small business as any firm having 10-49 employees rather than the under 500 employee criteria used by the SBA .",
+        "hypothesis": "Small businesses are businesses that have over 500 employees , according to the SBA .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573928,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The fact it had to be the right wrist was very important .",
+        "hypothesis": "The left wrist is not the correct wrist .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573929,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The fact it had to be the right wrist was very important .",
+        "hypothesis": "The left wrist is the correct wrist .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573930,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Her hands were covered under the gray cloak .",
+        "hypothesis": "She put her hands over her cloak .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573931,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Her hands were covered under the gray cloak .",
+        "hypothesis": "She did not put her hands over her cloak .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573932,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Time 's cover story on small towns follows several couples who gave up fast-track lives to settle down in villages .",
+        "hypothesis": "The cover story on this edition of Time is not about couples who left fast-track lifestyles to live in villages .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573933,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Time 's cover story on small towns follows several couples who gave up fast-track lives to settle down in villages .",
+        "hypothesis": "The cover story on this edition of Time is about couples who left fast-track lifestyles to live in villages .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573934,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The glory of this lively and cosmopolitan city lasted until 1801 , when the Act of Union brought Ireland under direct rule from London .",
+        "hypothesis": "The Act of Union did not make it impossible for London to rule directly over Ireland .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573935,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The glory of this lively and cosmopolitan city lasted until 1801 , when the Act of Union brought Ireland under direct rule from London .",
+        "hypothesis": "The Act of Union made it impossible for London to rule directly over Ireland .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573936,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Legally , companies are presumed to discriminate if their employment numbers are far below the norm .",
+        "hypothesis": "Companies are accused of discrimination if their employment numbers are above average .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573937,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "But behind them were subtle , insistent forces at work , urging the memories of old wrongs , deprecating the weakness of half-and-half measures , fomenting misunderstandings .",
+        "hypothesis": "The forces were at work in front of them .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573938,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "But behind them were subtle , insistent forces at work , urging the memories of old wrongs , deprecating the weakness of half-and-half measures , fomenting misunderstandings .",
+        "hypothesis": "The forces were not at work in front of them .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573939,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "At the left side of the graph where volume is least costly to deliver we find the most multiple address stops .",
+        "hypothesis": "The graph has a right side in addition to its left side .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573940,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "At the left side of the graph where volume is least costly to deliver we find the most multiple address stops .",
+        "hypothesis": "The graph has not a right side in addition to its left side .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573941,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Then Drew found he had his hands full trying to pull up the colt and persuade him that the race was indeed over .",
+        "hypothesis": "The colt did not sit quietly under Drew , knowing his defeat .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573942,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Then Drew found he had his hands full trying to pull up the colt and persuade him that the race was indeed over .",
+        "hypothesis": "The colt sat quietly under Drew , knowing his defeat .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573943,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The western side of Ibiza , leading up toward Sant Antoni Bay , comes under the jurisdiction of Sant Josep .",
+        "hypothesis": "Sant Josep has not jurisdiction over the western side of Ibiza leading up towards Sant Antoni Bay .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573944,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The western side of Ibiza , leading up toward Sant Antoni Bay , comes under the jurisdiction of Sant Josep .",
+        "hypothesis": "Sant Josep has jurisdiction over the western side of Ibiza leading up towards Sant Antoni Bay .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573945,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "About an hour 's drive south of Calais , the walled town of Montreuil-sur-Mer sits high above the valley of the river Canche .",
+        "hypothesis": "The river Canche does not sit below the town of Montreuil-sur-Mer .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573946,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "About an hour 's drive south of Calais , the walled town of Montreuil-sur-Mer sits high above the valley of the river Canche .",
+        "hypothesis": "The river Canche sits below the town of Montreuil-sur-Mer .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573947,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The busiest public temple in Penang is the Kuan Yin Ten Temple , on Lebuh Pitt -LRB- Jalan Masjid Kapitan Kling -RRB- , near St. George 's Church .",
+        "hypothesis": "It is not far from St. George 's Church .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573948,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The busiest public temple in Penang is the Kuan Yin Ten Temple , on Lebuh Pitt -LRB- Jalan Masjid Kapitan Kling -RRB- , near St. George 's Church .",
+        "hypothesis": "It is far from St. George 's Church .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573949,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The agora-like Hall of Nactenabo -LRB- 381 362 b.c. -RRB- stands in front of the pylon .",
+        "hypothesis": "The Hall of Nactenabo is not situated behind the pylon .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573950,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The agora-like Hall of Nactenabo -LRB- 381 362 b.c. -RRB- stands in front of the pylon .",
+        "hypothesis": "The Hall of Nactenabo is situated behind the pylon .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573951,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Camara de Lobos is more picturesque from afar than it is up close .",
+        "hypothesis": "Camara de Lobos looks more picturesque up close than it does from a distance .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573952,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Camara de Lobos is more picturesque from afar than it is up close .",
+        "hypothesis": "Camara de Lobos does not look more picturesque up close than it does from a distance .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573953,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "After she and a Globe editor checked into a $ 400 a night suite at a hotel near Frank 's office , Suzen went out for the evening .",
+        "hypothesis": "The hotel was located far from Frank 's office .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573954,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "After she and a Globe editor checked into a $ 400 a night suite at a hotel near Frank 's office , Suzen went out for the evening .",
+        "hypothesis": "The hotel was not located far from Frank 's office .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573955,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "I took an early opportunity of testing that statement by stationing my friend Monsieur Hastings in the left wing of the building , just outside Mrs. Cavendish 's door .",
+        "hypothesis": "Monsieur Hastings was not stationed in the right wing of the building .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573956,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "I took an early opportunity of testing that statement by stationing my friend Monsieur Hastings in the left wing of the building , just outside Mrs. Cavendish 's door .",
+        "hypothesis": "Monsieur Hastings was stationed in the right wing of the building .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573957,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "we were down here",
+        "hypothesis": "We were up there .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573958,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "we were down here",
+        "hypothesis": "We were not up there .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573959,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "His face patched up after a fashion , Drew lay full length on the hay in his old place over Shadow 's stall back at Kells ' stable .",
+        "hypothesis": "Drew lay down in a nice feather bed in the house .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573960,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "His face patched up after a fashion , Drew lay full length on the hay in his old place over Shadow 's stall back at Kells ' stable .",
+        "hypothesis": "Drew did not lay down in a nice feather bed in the house .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573961,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Strong central government under a High Commissioner left considerable powers in the hands of the States ' Malay rulers .",
+        "hypothesis": "A strong central government under a commissioner left lots of power in the hands of Malay rulers .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573962,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Strong central government under a High Commissioner left considerable powers in the hands of the States ' Malay rulers .",
+        "hypothesis": "A strong central government under a commissioner did not leave lots of power in the hands of Malay rulers .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573963,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Susan looked up at him .",
+        "hypothesis": "Susan did not look up to see him looking down at her .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573964,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Susan looked up at him .",
+        "hypothesis": "Susan looked up to see him looking down at her .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573965,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Tommy was behind him at the booking-office .",
+        "hypothesis": "Tommy did not stand in front of him at the booking office .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573966,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Tommy was behind him at the booking-office .",
+        "hypothesis": "Tommy stood in front of him at the booking office .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573967,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Not far from these modest areas are the city 's first upscale developments , Rancho Circle and the Scotch 80s .",
+        "hypothesis": "Rancho Circle and the Scotch 80s are not close to some modest areas .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573968,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Not far from these modest areas are the city 's first upscale developments , Rancho Circle and the Scotch 80s .",
+        "hypothesis": "Rancho Circle and the Scotch 80s are close to some modest areas .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573969,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "From the one nearest him on the left came a low murmur of voices .",
+        "hypothesis": "From the one nearest him on the right did not come a huge scream .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573970,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "From the one nearest him on the left came a low murmur of voices .",
+        "hypothesis": "From the one nearest him on the right came a huge scream .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573971,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Stand behind it .",
+        "hypothesis": "do not stand in front of it .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573972,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Stand behind it .",
+        "hypothesis": "Stand in front of it .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573973,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "The fourth set specifies conditions under which the Service may use multi-year test periods to demonstrate that a proposed new service will become compensatory over time .",
+        "hypothesis": "The fourth set gives conditions which the Service can use multi-year test periods to show that a proposed service will be compensatory over time .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573974,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "The fourth set specifies conditions under which the Service may use multi-year test periods to demonstrate that a proposed new service will become compensatory over time .",
+        "hypothesis": "The fourth set does not give conditions which the Service can use multi-year test periods to show that a proposed service will be compensatory over time .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573975,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "we 've gone too far to the left it 's fixing to come back hard right",
+        "hypothesis": "Our current position is not too far to the left .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573976,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "we 've gone too far to the left it 's fixing to come back hard right",
+        "hypothesis": "Our current position is too far to the left .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573977,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "see what happens when they when they take a plane load of their citizens down in",
+        "hypothesis": "A plane full of citizens did not end up being taken down .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573978,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "see what happens when they when they take a plane load of their citizens down in",
+        "hypothesis": "A plane full of citizens ended up being taken down .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573979,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Go to your room ! '' Very cautiously Tommy swung himself down the back of the ladder .",
+        "hypothesis": "Tommy moved recklessly up the front of the ladder .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573980,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Go to your room ! '' Very cautiously Tommy swung himself down the back of the ladder .",
+        "hypothesis": "Tommy did not move recklessly up the front of the ladder .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573981,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "To the right of the chapel is a fragment of rare jasper said to come from the column to which Jesus was tied for his flagellation .",
+        "hypothesis": "The rare jasper is not to the left of the chapel .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573982,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "To the right of the chapel is a fragment of rare jasper said to come from the column to which Jesus was tied for his flagellation .",
+        "hypothesis": "The rare jasper is to the left of the chapel .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573983,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "This means that data are broken up into small pieces , or packets .",
+        "hypothesis": "This means that the data were broken down into small packets .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573984,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "This means that data are broken up into small pieces , or packets .",
+        "hypothesis": "This does not mean that the data were broken down into small packets .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573985,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Go up the stairs to the right of the entrance to see the next four stations .",
+        "hypothesis": "Go down the stairs to the lower level to see the next four stations .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573986,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Go up the stairs to the right of the entrance to see the next four stations .",
+        "hypothesis": "do not go down the stairs to the lower level to see the next four stations .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573987,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "His face patched up after a fashion , Drew lay full length on the hay in his old place over Shadow 's stall back at Kells ' stable .",
+        "hypothesis": "Drew lay down in his old place above Shadow 's stall in Kells ' stable .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573988,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Privilege is above and beyond the normal .",
+        "hypothesis": "Privilege is something below average life matters .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573989,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Privilege is above and beyond the normal .",
+        "hypothesis": "Privilege is not something below average life matters .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573990,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Immediately to the right of Jesus is the weighing of the souls , with Saint Michael trying to stop Satan from cheating .",
+        "hypothesis": "Jesus is arguing with Satan and Saint Michael stays on their left side .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573991,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Immediately to the right of Jesus is the weighing of the souls , with Saint Michael trying to stop Satan from cheating .",
+        "hypothesis": "Jesus is not arguing with Satan and Saint Michael stays on their left side .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573992,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "But , even as he did so , he felt himself seized from behind in a grip of iron .",
+        "hypothesis": "The strong grip came from directly in front of him .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573993,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "But , even as he did so , he felt himself seized from behind in a grip of iron .",
+        "hypothesis": "The strong grip did not come from directly in front of him .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573994,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Another man on the steps behind Whittington gave a startled exclamation .",
+        "hypothesis": "Whittington was on the steps in front of a man .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573995,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Another man on the steps behind Whittington gave a startled exclamation .",
+        "hypothesis": "Whittington was not on the steps in front of a man .",
+        "label": "neutral",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573996,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Tommy took a seat at the table next to them , sitting directly behind Whittington in case of recognition .",
+        "hypothesis": "Whittington did not sit immediately in front of the seat Tommy took .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573997,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Tommy took a seat at the table next to them , sitting directly behind Whittington in case of recognition .",
+        "hypothesis": "Whittington sat immediately in front of the seat Tommy took .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573998,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "I was too far to the left .",
+        "hypothesis": "I was not too far to the right of where I should have been .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 573999,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "I was too far to the left .",
+        "hypothesis": "I was too far to the right of where I should have been .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 574000,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": false,
+        "context": "Susan , standing behind Jon , looked up to Ca ` daan .",
+        "hypothesis": "Jon was not in front Susan .",
+        "label": "contradiction",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 574001,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    },
+    {
+        "binary-label": true,
+        "context": "Susan , standing behind Jon , looked up to Ca ` daan .",
+        "hypothesis": "Jon was in front Susan .",
+        "label": "entailment",
+        "label-set": [
+            "contradiction",
+            "neutral",
+            "entailment"
+        ],
+        "pair-id": 574002,
+        "split": "dev",
+        "type-of-inference": "nli-spatial"
+    }
+]
