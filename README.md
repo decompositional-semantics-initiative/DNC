@@ -1,6 +1,6 @@
 # DNC: <u>*D*</u>iverse <u>*N*</u>atural Language Inference <u>*C*</u>ollection
 
-Dataset associated and released as part of [*Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation*](http://www.cs.jhu.edu/~apoliak1/papers/COLLECTING-DIVERSE-NLI-PROBLEMS--EMNLP-2018.pdf) (EMNLP 2018).
+Dataset associated and released as part of [*Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation*](https://www.aclweb.org/anthology/D18-1007/) (EMNLP 2018).
 
 ## Structure of repo
 
